@@ -1,4 +1,4 @@
-Le but de ce document est de donner les premiers conseils pratiques pour mettre en place un environement de travail qui permet de créer des supports de cours, des exercices, des devoirs, des supports de formatio... pour l'enseignement de toute matière qui necessite l'utilisation de Python pour le traitement de données (analyse mathématiques, statistiques, graphiques...). Les docuement sont au format `calepin` (notebook en anglais) et le logiciel qui permet de creer ces calepins est `Jupyter` (qui peut se decliner ebn plusieurs versions selon les usages : `Jupyter Portable` pour une utilisation locale sous Windows ou `Jupyter Hub` pour une utilisation en ligne). 
+Le but de ce document est de donner les premiers conseils pratiques pour mettre en place un environement de travail qui permet de créer des supports de cours, des exercices, des devoirs, des supports de formation... pour l'enseignement de toute matière qui nécessite l'utilisation de Python pour le traitement de données (analyse mathématiques, statistiques, graphiques...). Les documents sont au format `calepin` (notebook en anglais) et le logiciel qui permet de créer ces calepins est `Jupyter` (qui peut se décliner en plusieurs versions selon les usages : `Jupyter Portable` pour une utilisation locale sous Windows ou `Jupyter Hub` pour une utilisation en ligne). 
 
 
 # Jupyter
@@ -19,7 +19,7 @@ Si vous n'avez pas de connexion internet ou que votre connexion internet est fai
 :rocket:
 
 ## Jupyter Portable
-Vous pouvez télécharger Jupyter Portable à cette adresse : []()
+Vous pouvez télécharger Jupyter Portable à cette adresse : [Jupyter Portable](https://www.portabledevapps.net/jupyter-portable.php)
 Une fois l'application téléchargée, il suffit de la lancer pour choisir à quel endroit vous allez placer Jupyter Portable. L'emplacement peut être un dossier dans l'arborescence de Windows, un dossier sur un lecteur réseau ou un dossier sur une cle USB ou un disque externe. Vos calepins seront conservés sur le sous-dossier 'notebooks'.
 
 ### Avantages
@@ -33,7 +33,7 @@ Une fois l'application téléchargée, il suffit de la lancer pour choisir à qu
 * ne fonctionne que sur Windows
 
 ## Jupyter Hub
-Jupyter Hub est un service en ligne disponible à cette qdresse : . Après avoir créé un compte vous pourrez créer des calepins, charger des calepins déjà existants et les modifier. Les calepins seront conservés sur votre compte.
+Jupyter Hub est un service en ligne disponible à cette adresse : [Jupyter Hub](http://jupyter.codekodo.net:8000). Après avoir créé un compte vous pourrez créer des calepins, charger des calepins déjà existants et les modifier. Les calepins seront conservés sur votre compte.
 
 ### Avantages
 * pas d'installation, tout se fait en ligne
