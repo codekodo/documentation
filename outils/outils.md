@@ -23,13 +23,13 @@ Vous pouvez télécharger Jupyter Portable à cette adresse : [Jupyter Portable]
 
 Une fois l'application téléchargée, il suffit de la lancer pour choisir à quel endroit vous allez placer Jupyter Portable. L'emplacement peut être un dossier dans l'arborescence de Windows, un dossier sur un lecteur réseau ou un dossier sur une cle USB ou un disque externe. Vos calepins seront conservés sur le sous-dossier 'notebooks'.
 
-#### 3.1.1. Avantages
+**Avantages**
 * pas connexion internet nécessaire
 * pas d'intallation
 * pas besoinde droits administrateur
 * fonctionne sur une clé USB
 
-#### 3.1.2. Inconvénients
+**Inconvénients**
 * phase de démarrage un peu lente
 * ne fonctionne que sur Windows
 
@@ -38,10 +38,10 @@ Jupyter Hub est un service en ligne disponible à cette adresse : [Jupyter Hub](
 
 Après avoir créé un compte vous pourrez créer des calepins, charger des calepins déjà existants et les modifier. Les calepins seront conservés sur votre compte.
 
-#### 3.2.1. Avantages
+**Avantages**
 * pas d'installation, tout se fait en ligne
 * possibilité de charger automatiquement des calepins
 
-#### 3.2.2. Inconvénients
+**Inconvénients**
 * nécessite une connexion internet
 * le lancement peut être lent
