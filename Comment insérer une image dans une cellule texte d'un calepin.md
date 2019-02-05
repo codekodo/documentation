@@ -5,7 +5,7 @@ Lorsque l'on souhaite insérer une image dans une cellule texte d'un calepin, il
 # 1. Syntaxe
 Soit une image prsente a l'adresse suivante : https://www.exemple.com/images/image.png
 Pour inserer cette image dans une cellule texte d'une calepins, deux syntaxe sont possibles :
-- [description de l'image](https://www.exemple.com/images/image.png)
+- \[description de l'image](https://www.exemple.com/images/image.png)
 
 
 # 2. Conserver les images sur Google Drive
