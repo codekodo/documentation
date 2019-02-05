@@ -11,7 +11,7 @@ Le texte entre crochets est optionel, il ne sert qu'a decrire l'image si jamais 
 Avec cette syntaxe, il n'est pas possible de modifier la taille l'image. Elle s'affichera dans sa taille originale.
 - `<img src="https://www.exemple.com/images/image.png" alt="description de l'image" width="50" />`<br />
 L'alternative textuelle `alt` est optionelle.<br />
-Avec cette syntaxe, on peut spécifier la largeur de l'image grace à la declaration `width`. Le chifree indique est exprime en pixels. A la place de `width`, il est possible d'utiliser `height` pour definir la hauteur de l'image. Il est aussi possible d'utiliser `width` et `height` en meme temps.
+Avec cette syntaxe, on peut spécifier la largeur de l'image grace à la declaration <kbd>width</kbd>. Le chifree indique est exprime en pixels. A la place de `width`, il est possible d'utiliser `height` pour definir la hauteur de l'image. Il est aussi possible d'utiliser `width` et `height` en meme temps.
 
 ## 2. Conserver les images sur Google Drive
 Si vous conservez vos calepins dans un Google Drive, vous pouvez aussi y conserver les images que vous vous voulez utiliser dans les cellules texte de vos calepins. Imaginons que les images sont conservées dans le dossier `Mon Drive > calepins > images`. Et que dans ce dossier, il y a une image `monimage.png`. L'adresse qui permet d'utiliser cette image est de la forme :<br />
