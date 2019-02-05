@@ -5,7 +5,7 @@ Lorsque l'on souhaite insérer une image dans une cellule texte d'un calepin, il
 # 1. Syntaxe
 Soit une image prsente a l'adresse suivante : https://www.exemple.com/images/image.png
 Pour inserer cette image dans une cellule texte d'une calepins, deux syntaxe sont possibles :
-- `[description de l'image](https://www.exemple.com/images/image.png)`<br />
+- `![description de l'image](https://www.exemple.com/images/image.png)`<br />
 Le texte entre crochets est optionel, il ne sert qu'a decrire l'image si jamais l'image ne s'affiche pas. Pour en [savoir plus](https://fr.wikipedia.org/wiki/Alternative_textuelle).
 avec cette syntaxe, il n'est pas possible de modifier la taille l'image. Elle s'affichera dans sa taille originale.
 - `<img src="https://www.exemple.com/images/image.png" alt="description de l'image" width="50" />`<br />
@@ -26,7 +26,8 @@ Pour recuper ce code, il suffit :
 - de copier ce lien qui est de la forme `https://drive.google.com/file/d/1OfiLs18cI_omYZ22SjervuaLZeUP/view?usp=sharing`
 - de coller ce lien, de ne garder que `1OfiLs18cI_omYZ22SjervuaLZeUP`
 
-Ainsi, il sera possible de finir de construire la syntaxe voulue : `[description de l'image](https://drive.google.com/uc?export=view&id=1OfiLs18cI_omYZ22SjervuaLZeUP)`. En collant ce code dans la cellule texte d'un calepin, l'iame apparaitra lorsque vous executerez la cellule.
+Ainsi, il sera possible de finir de construire la syntaxe voulue :
+`![description de l'image](https://drive.google.com/uc?export=view&id=1OfiLs18cI_omYZ22SjervuaLZeUP)` ou `<img src="https://drive.google.com/uc?export=view&id=1OfiLs18cI_omYZ22SjervuaLZeUP" alt="description de l'image" width="50" />`. En collant ce code dans la cellule texte d'un calepin, l'iame apparaitra lorsque vous executerez la cellule.
 
 # 3. Conserver les image sur Imgur
 Il est aussi possible d'heberger les images sur des services internet. Il en existe de nombreux. Le plus connu est [Imgur](https://imgur.com/). C'est un site tres populaire auptes des utilisateurs de [Reddit](https://www.reddit.com/). Il n'est pas necessaire de creer un compte sur Imgur pour y heberger des images. Cependant, en creant un compte, vous pourrez mieux organiser vos images.
@@ -34,8 +35,12 @@ Etapes pour placer une image sur Imgur et l'inserer dans une ceklue texte d'un c
 - aller sur [Imgur](https://imgur.com/)
 - cliquer en haut à gauche de la page d'accueil sur `+ new post`
 - cliquer sur `browse` ou faire un glisser-déposer
+- attention : ne pas copier le lien qui est presente à droite de l'image
+- placer la souris au dessus l'image, cliquer sur le menu deroulant () qui est propose à cote du lien et cliquer sur `Get share links`
+- une fentre apparait avec quatre propositions de lien; copier le lien `Markdown (Reddit)`, il est de la forme `[Imgur](https://i.imgur.com/eZdopx.png)`
 
-
+En remplacant `Imgur` par le texte que vous voulez (ou rien) et en ajoutant un point d'exclamation devant, vous obtiendrez le code à inserer dans vos cellule texte :
+`![description de l'image](https://i.imgur.com/eZdopx.png)` ou `<img src="https://i.imgur.com/eZdopx.png" alt="description de l'image" width="50" />`
 
 
 🔎 Si vous voulez en savoir plus à propos de la syntaxe `markdown` utilisee dans les celleules texte d'un calepin, vous pouvez consulter cette [page](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html).
