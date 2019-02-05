@@ -42,7 +42,7 @@ Etapes pour placer une image sur Imgur et l'inserer dans une ceklue texte d'un c
 - cliquer en haut à gauche de la page d'accueil sur <kbd>+ new post</kbd>
 - cliquer sur <kbd>browse</kbd> ou faire un glisser-déposer
 - attention : ne pas copier le lien qui est presente à droite de l'image
-- placer la souris au dessus l'image, cliquer sur le menu deroulant () qui est propose à cote du lien et cliquer sur <kbd>Get share links</kbd>
+- placer la souris au dessus l'image, cliquer sur le menu deroulant (<i class="material-icons">keyboard_arrow_down</i>) qui est propose à cote du lien et cliquer sur <kbd>Get share links</kbd>
 - une fentre apparait avec quatre propositions de lien; copier le lien <kbd>Markdown (Reddit)</kbd>, il est de la forme :<br />
 `[Imgur](https://i.imgur.com/eZdopx.png)`
 
