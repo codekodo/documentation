@@ -9,6 +9,7 @@ Pour inserer cette image dans une cellule texte d'une calepins, deux syntaxe son
 - `![description de l'image](https://www.exemple.com/images/image.png)`<br />
 Le texte entre crochets est optionel, il ne sert qu'a decrire l'image si jamais l'image ne s'affiche pas. C'est ce que l'on appelle une [alternative textuelle](https://fr.wikipedia.org/wiki/Alternative_textuelle).<br />
 Avec cette syntaxe, il n'est pas possible de modifier la taille l'image. Elle s'affichera dans sa taille originale.
+
 - `<img src="https://www.exemple.com/images/image.png" alt="description de l'image" width="50" />`<br />
 L'alternative textuelle <kbd>alt</kbd> est optionelle.<br />
 Avec cette syntaxe, on peut spécifier la largeur de l'image grace à la declaration <kbd>width</kbd>. Le chifree indique est exprime en pixels. A la place de <kbd>width</kbd>, il est possible d'utiliser <kbd>height</kbd> pour definir la hauteur de l'image. Il est aussi possible d'utiliser <kbd>width</kbd> et <kbd>height</kbd> en meme temps.
