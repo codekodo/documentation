@@ -3,7 +3,8 @@
 Lorsque l'on souhaite insérer une image dans une cellule texte d'un calepin, il n'est pas possible de le faire commen on le ferait avec un docuement Word, LibreOffice ou Google Doc. Les images ne peuvent pas etre imcorporee à la cellule elle-meme. Elles doivent etre placees en dehors du calepin. Le plus smiple est de les conservees dans un espace accessible depuis internet. Plusieurs solutions existent. A vous choisir celle qui vous convient le lieux.
 
 # 1. Syntaxe
-Soit une image prsente a l'adresse suivante : https://www.exemple.com/images/image.png
+Soit une image prsente a l'adresse suivante : `https://www.exemple.com/images/image.png`.
+
 Pour inserer cette image dans une cellule texte d'une calepins, deux syntaxe sont possibles :
 - `![description de l'image](https://www.exemple.com/images/image.png)`<br />
 Le texte entre crochets est optionel, il ne sert qu'a decrire l'image si jamais l'image ne s'affiche pas. Pour en [savoir plus](https://fr.wikipedia.org/wiki/Alternative_textuelle).
