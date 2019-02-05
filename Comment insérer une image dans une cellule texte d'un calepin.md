@@ -28,11 +28,13 @@ Pour recuper ce code, il suffit :
 
 Ainsi, il sera possible de finir de construire la syntaxe voulue : `[description de l'image](https://drive.google.com/uc?export=view&id=1OfiLs18cI_omYZ22SjervuaLZeUP)`. En collant ce code dans la cellule texte d'un calepin, l'iame apparaitra lorsque vous executerez la cellule.
 
-
 # 3. Conserver les image sur Imgur
 Il est aussi possible d'heberger les images sur des services internet. Il en existe de nombreux. Le plus connu est [Imgur](https://imgur.com/). C'est un site tres populaire auptes des utilisateurs de [Reddit](https://www.reddit.com/). Il n'est pas necessaire de creer un compte sur Imgur pour y heberger des images. Cependant, en creant un compte, vous pourrez mieux organiser vos images.
 Etapes pour placer une image sur Imgur et l'inserer dans une ceklue texte d'un calepin :
-- 
+- aller sur [Imgur](https://imgur.com/)
+- cliquer en haut à gauche de la page d'accueil sur `+ new post`
+- cliquer sur `browse` ou faire un glisser-déposer
+
 
 
 
