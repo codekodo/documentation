@@ -14,10 +14,10 @@ L'alternative textuelle `alt` est optionelle.<br />
 Avec cette syntaxe, on peut spécifier la largeur de l'image grace à la declaration `width`. Le chifree indique est exprime en pixels. A la place de `width`, il est possible d'utiliser `height` pour definir la hauteur de l'image. Il est aussi possible d'utiliser `width` et `height` en meme temps.
 
 # 2. Conserver les images sur Google Drive
-Si vous conservez vos calepins dans un Google Drive, vous pouvez aussi y conserver les images que vous vous voulez utiliser dans les cellules texte de vos calepins. Imaginons que les images sont conservées dans le repertoire `Mon Drive > calepins > images`. Et que dans ce dossier, il y a une image `monimage.png`. L'adresse qui permet d'utiliser cette image est de la forme :<br />
-`https://drive.google.com/uc?export=view&id=1OfiLs18cI_omYZ22SjervuaLZeUP` avec `1OfiLs18cI_omYZ22SjervuaLZeUP`, le code unique d'identication de l'image.
+Si vous conservez vos calepins dans un Google Drive, vous pouvez aussi y conserver les images que vous vous voulez utiliser dans les cellules texte de vos calepins. Imaginons que les images sont conservées dans le dossier `Mon Drive > calepins > images`. Et que dans ce dossier, il y a une image `monimage.png`. L'adresse qui permet d'utiliser cette image est de la forme :<br />
+`https://drive.google.com/uc?export=view&id=1OfiLs18cI_omYZ22SjervuaLZeUP` avec `1OfiLs18cI_omYZ22SjervuaLZeUP`, l'identifiant unique de l'image.
 
-Pour recuper ce code, il faut :
+Pour recuper cet identifiant, il faut :
 - aller sur le Drive et naviger jusqu'au répertoire qui contient l'image. Ex. : `Mon Drive > calepins > images`
 - faire un clic droit sur `monimage.png` et choisir `partager`
 - cliquer en haut à droite de la fenetre qui vient de s'ouvrir sur `Obtenir le lien de partage`.
