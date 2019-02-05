@@ -14,13 +14,13 @@ L'alternative textuelle <kbd>alt</kbd> est optionelle.<br />
 Avec cette syntaxe, on peut spécifier la largeur de l'image grace à la declaration <kbd>width</kbd>. Le chifree indique est exprime en pixels. A la place de <kbd>width</kbd>, il est possible d'utiliser <kbd>height</kbd> pour definir la hauteur de l'image. Il est aussi possible d'utiliser <kbd>width</kbd> et <kbd>height</kbd> en meme temps.
 
 ## 2. Conserver les images sur Google Drive
-Si vous conservez vos calepins dans un Google Drive, vous pouvez aussi y conserver les images que vous vous voulez utiliser dans les cellules texte de vos calepins. Imaginons que les images sont conservées dans le dossier `Mon Drive > calepins > images`. Et que dans ce dossier, il y a une image `monimage.png`. L'adresse qui permet d'utiliser cette image est de la forme :<br />
+Si vous conservez vos calepins dans un Google Drive, vous pouvez aussi y conserver les images que vous vous voulez utiliser dans les cellules texte de vos calepins. Imaginons que les images sont conservées dans le dossier <kbd>Mon Drive > calepins > images</kbd>. Et que dans ce dossier, il y a une image <kbd>monimage.png</kbd>. L'adresse qui permet d'utiliser cette image est de la forme :<br />
 `https://drive.google.com/uc?export=view&id=1OfiLs18cI_omYZ22SjervuaLZeUP` avec `1OfiLs18cI_omYZ22SjervuaLZeUP`, l'identifiant unique de l'image.
 
 Pour recuper cet identifiant, il faut :
 - aller sur le Drive et naviger jusqu'au répertoire qui contient l'image. Ex. : <kbd>Mon Drive > calepins > images</kbd>
 - faire un clic droit sur <kbd>monimage.png</kbd> et choisir <kbd>partager</kbd>
-- cliquer en haut à droite de la fenetre qui vient de s'ouvrir sur `Obtenir le lien de partage`.
+- cliquer en haut à droite de la fenetre qui vient de s'ouvrir sur <kbd>Obtenir le lien de partage</kbd>.
 - choisois <kbd>Visible : utilisateurs avec le lien</kbd>
 - copier ce lien qui est de la forme `https://drive.google.com/file/d/1OfiLs18cI_omYZ22SjervuaLZeUP/view?usp=sharing`
 - coller ce lien et ne garder que `1OfiLs18cI_omYZ22SjervuaLZeUP`
@@ -38,10 +38,11 @@ Il est aussi possible d'heberger les images sur des services internet. Il en exi
 Etapes pour placer une image sur Imgur et l'inserer dans une ceklue texte d'un calepin :
 - aller sur [Imgur](https://imgur.com/)
 - cliquer en haut à gauche de la page d'accueil sur <kbd>+ new post<kbd>
-- cliquer sur `browse` ou faire un glisser-déposer
+- cliquer sur <kbd>browse</kbd> ou faire un glisser-déposer
 - attention : ne pas copier le lien qui est presente à droite de l'image
-- placer la souris au dessus l'image, cliquer sur le menu deroulant () qui est propose à cote du lien et cliquer sur `Get share links`
-- une fentre apparait avec quatre propositions de lien; copier le lien `Markdown (Reddit)`, il est de la forme `[Imgur](https://i.imgur.com/eZdopx.png)`
+- placer la souris au dessus l'image, cliquer sur le menu deroulant () qui est propose à cote du lien et cliquer sur <kbd>Get share links</kbd>
+- une fentre apparait avec quatre propositions de lien; copier le lien <kbd>Markdown (Reddit)</kbd>, il est de la forme :<br />
+`[Imgur](https://i.imgur.com/eZdopx.png)`
 
 En remplacant `Imgur` par le texte que vous voulez (ou rien) et en ajoutant un point d'exclamation devant, vous obtiendrez le code à inserer dans vos cellule texte :
 
@@ -53,5 +54,5 @@ Dernière étape : coller ce code à l'endroit voulu dans la cellule texte d'un 
 
 
 
-🔎 Si vous voulez en savoir plus à propos de la syntaxe `markdown` utilisee dans les celleules texte d'un calepin, vous pouvez consulter cette [page](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html).
+🔎 Si vous voulez en savoir plus à propos de la syntaxe <kbd>markdown</kbd> utilisee dans les celleules texte d'un calepin, vous pouvez consulter cette [page](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html).
 
