@@ -26,9 +26,13 @@ Pour recuper ce code, il suffit :
 - de copier ce lien qui est de la forme `https://drive.google.com/file/d/1OfiLs18cI_omYZ22SjervuaLZeUP/view?usp=sharing`
 - de coller ce lien, de ne garder que `1OfiLs18cI_omYZ22SjervuaLZeUP`
 
-Ainsi, il sera possible de finir de construire la syntaxe voulue :
-`![description de l'image](https://drive.google.com/uc?export=view&id=1OfiLs18cI_omYZ22SjervuaLZeUP)` ou `<img src="https://drive.google.com/uc?export=view&id=1OfiLs18cI_omYZ22SjervuaLZeUP" alt="description de l'image" width="50" />`.
-Dernuiere etape : coller ce code à l'endroit voulu dans la cellule texte d'un calepin et executerez la cellule. Le code sera remplacé par l'image.
+Ainsi, il sera possible de finir de construire la syntaxe souhaitée :
+
+`![description de l'image](https://drive.google.com/uc?export=view&id=1OfiLs18cI_omYZ22SjervuaLZeUP)`<br />
+ou<br />
+`<img src="https://drive.google.com/uc?export=view&id=1OfiLs18cI_omYZ22SjervuaLZeUP" alt="description de l'image" width="50" />`
+
+Dernière etape : coller ce code à l'endroit voulu dans la cellule texte d'un calepin et executerez la cellule. Le code sera remplacé par l'image.
 
 # 3. Conserver les image sur Imgur
 Il est aussi possible d'heberger les images sur des services internet. Il en existe de nombreux. Le plus connu est [Imgur](https://imgur.com/). C'est un site tres populaire auptes des utilisateurs de [Reddit](https://www.reddit.com/). Il n'est pas necessaire de creer un compte sur Imgur pour y heberger des images. Cependant, en creant un compte, vous pourrez mieux organiser vos images.
@@ -46,7 +50,7 @@ En remplacant `Imgur` par le texte que vous voulez (ou rien) et en ajoutant un p
 ou<br />
 `<img src="https://i.imgur.com/eZdopx.png" alt="description de l'image" width="50" />`
 
-Dernuiere etape : coller ce code à l'endroit voulu dans la cellule texte d'un calepin et executerez la cellule. Le code sera remplacé par l'image.
+Dernière étape : coller ce code à l'endroit voulu dans la cellule texte d'un calepin et executerez la cellule. Le code sera remplacé par l'image.
 
 
 
