@@ -1,1 +1,1 @@
-[](doc/inserer-image)
+![](doc/inserer-image)
