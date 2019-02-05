@@ -10,7 +10,7 @@ Pour inserer cette image dans une cellule texte d'une calepins, deux syntaxe son
 Le texte entre crochets est optionel, il ne sert qu'a decrire l'image si jamais l'image ne s'affiche pas. C'est ce que l'on appelle une [alternative textuelle](https://fr.wikipedia.org/wiki/Alternative_textuelle).<br />
 Avec cette syntaxe, il n'est pas possible de modifier la taille l'image. Elle s'affichera dans sa taille originale.
 - `<img src="https://www.exemple.com/images/image.png" alt="description de l'image" width="50" />`<br />
-L'alternative textuelle `alt` est optionelle.<br />
+L'alternative textuelle <kbd>alt</kbd> est optionelle.<br />
 Avec cette syntaxe, on peut spécifier la largeur de l'image grace à la declaration <kbd>width</kbd>. Le chifree indique est exprime en pixels. A la place de <kbd>width</kbd>, il est possible d'utiliser <kbd>height</kbd> pour definir la hauteur de l'image. Il est aussi possible d'utiliser <kbd>width</kbd> et <kbd>height</kbd> en meme temps.
 
 ## 2. Conserver les images sur Google Drive
@@ -18,10 +18,10 @@ Si vous conservez vos calepins dans un Google Drive, vous pouvez aussi y conserv
 `https://drive.google.com/uc?export=view&id=1OfiLs18cI_omYZ22SjervuaLZeUP` avec `1OfiLs18cI_omYZ22SjervuaLZeUP`, l'identifiant unique de l'image.
 
 Pour recuper cet identifiant, il faut :
-- aller sur le Drive et naviger jusqu'au répertoire qui contient l'image. Ex. : `Mon Drive > calepins > images`
-- faire un clic droit sur `monimage.png` et choisir `partager`
+- aller sur le Drive et naviger jusqu'au répertoire qui contient l'image. Ex. : <kbd>Mon Drive > calepins > images</kbd>
+- faire un clic droit sur <kbd>monimage.png</kbd> et choisir <kbd>partager</kbd>
 - cliquer en haut à droite de la fenetre qui vient de s'ouvrir sur `Obtenir le lien de partage`.
-- chjsois `Visible : utilisateurs avec le lien`
+- choisois <kbd>Visible : utilisateurs avec le lien</kbd>
 - copier ce lien qui est de la forme `https://drive.google.com/file/d/1OfiLs18cI_omYZ22SjervuaLZeUP/view?usp=sharing`
 - coller ce lien et ne garder que `1OfiLs18cI_omYZ22SjervuaLZeUP`
 
@@ -37,7 +37,7 @@ Dernière etape : coller ce code à l'endroit voulu dans la cellule texte d'un c
 Il est aussi possible d'heberger les images sur des services internet. Il en existe de nombreux. Le plus connu est [Imgur](https://imgur.com/). C'est un site tres populaire auptes des utilisateurs de [Reddit](https://www.reddit.com/). Il n'est pas necessaire de creer un compte sur Imgur pour y heberger des images. Cependant, en creant un compte, vous pourrez mieux organiser vos images.
 Etapes pour placer une image sur Imgur et l'inserer dans une ceklue texte d'un calepin :
 - aller sur [Imgur](https://imgur.com/)
-- cliquer en haut à gauche de la page d'accueil sur `+ new post`
+- cliquer en haut à gauche de la page d'accueil sur <kbd>+ new post<kbd>
 - cliquer sur `browse` ou faire un glisser-déposer
 - attention : ne pas copier le lien qui est presente à droite de l'image
 - placer la souris au dessus l'image, cliquer sur le menu deroulant () qui est propose à cote du lien et cliquer sur `Get share links`
