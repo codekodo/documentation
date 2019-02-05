@@ -37,14 +37,14 @@ Dernière etape : coller ce code à l'endroit voulu dans la cellule texte d'un c
 Il est aussi possible d'heberger les images sur des services internet. Il en existe de nombreux. Le plus connu est [Imgur](https://imgur.com/). C'est un site tres populaire auptes des utilisateurs de [Reddit](https://www.reddit.com/). Il n'est pas necessaire de creer un compte sur Imgur pour y heberger des images. Cependant, en creant un compte, vous pourrez mieux organiser vos images.
 Etapes pour placer une image sur Imgur et l'inserer dans une ceklue texte d'un calepin :
 - aller sur [Imgur](https://imgur.com/)
-- cliquer en haut à gauche de la page d'accueil sur <kbd>+ new post<kbd>
+- cliquer en haut à gauche de la page d'accueil sur <kbd>+ new post</kbd>
 - cliquer sur <kbd>browse</kbd> ou faire un glisser-déposer
 - attention : ne pas copier le lien qui est presente à droite de l'image
 - placer la souris au dessus l'image, cliquer sur le menu deroulant () qui est propose à cote du lien et cliquer sur <kbd>Get share links</kbd>
 - une fentre apparait avec quatre propositions de lien; copier le lien <kbd>Markdown (Reddit)</kbd>, il est de la forme :<br />
 `[Imgur](https://i.imgur.com/eZdopx.png)`
 
-En remplacant `Imgur` par le texte que vous voulez (ou rien) et en ajoutant un point d'exclamation devant, vous obtiendrez le code à inserer dans vos cellule texte :
+En remplacant <kbd>Imgur</kbd> par le texte que vous voulez (ou rien) et en ajoutant un point d'exclamation devant, vous obtiendrez le code à inserer dans vos cellule texte :
 
 `![description de l'image](https://i.imgur.com/eZdopx.png)`<br />
 ou<br />
