@@ -6,7 +6,11 @@ Lorsque l'on souhaite insérer une image dans une cellule texte d'un calepin, il
 Soit une image prsente a l'adresse suivante : https://www.exemple.com/images/image.png
 Pour inserer cette image dans une cellule texte d'une calepins, deux syntaxe sont possibles :
 - \[description de l'image](https://www.exemple.com/images/image.png)
-
+Le texte entre [] est optionel, il ne sert qu'a decrire l'image si jamais l'image ne s'affiche pas. Pour en [savoir plus](https://fr.wikipedia.org/wiki/Alternative_textuelle).
+avec cette syntaxe, il n'est pas possible de modifier la taille l'image. Elle s'affichera dans sa taille originale.
+- <img src="https://www.exemple.com/images/image.png" alt="description de l'image" width="50" />
+La balise `alt` est optionelle.
+Il est possible de specifier la largeur de l'image. Le chifree correspond au nombre de pixels. A la place de `width`, il est possible d'utiliser `height` pour definir la hauteur de l'image. Il est aussi possible d'utiliser `width` et `height` en meme temps.
 
 # 2. Conserver les images sur Google Drive
 
