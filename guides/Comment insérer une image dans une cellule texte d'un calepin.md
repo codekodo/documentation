@@ -2,7 +2,7 @@
 
 Lorsque l'on souhaite insérer une image dans une cellule texte d'un calepin, il n'est pas possible de le faire commen on le ferait avec un docuement Word, LibreOffice ou Google Doc. Les images ne peuvent pas etre imcorporee à la cellule elle-meme. Elles doivent etre placees en dehors du calepin. Le plus smiple est de les conservees dans un espace accessible depuis internet. Plusieurs solutions existent. A vous choisir celle qui vous convient le lieux.
 
-# 1. Syntaxe
+## 1. Syntaxe
 Soit une image prsente a l'adresse suivante : `https://www.exemple.com/images/image.png`.
 
 Pour inserer cette image dans une cellule texte d'une calepins, deux syntaxe sont possibles :
@@ -13,7 +13,7 @@ Avec cette syntaxe, il n'est pas possible de modifier la taille l'image. Elle s'
 L'alternative textuelle `alt` est optionelle.<br />
 Avec cette syntaxe, on peut spécifier la largeur de l'image grace à la declaration `width`. Le chifree indique est exprime en pixels. A la place de `width`, il est possible d'utiliser `height` pour definir la hauteur de l'image. Il est aussi possible d'utiliser `width` et `height` en meme temps.
 
-# 2. Conserver les images sur Google Drive
+## 2. Conserver les images sur Google Drive
 Si vous conservez vos calepins dans un Google Drive, vous pouvez aussi y conserver les images que vous vous voulez utiliser dans les cellules texte de vos calepins. Imaginons que les images sont conservées dans le dossier `Mon Drive > calepins > images`. Et que dans ce dossier, il y a une image `monimage.png`. L'adresse qui permet d'utiliser cette image est de la forme :<br />
 `https://drive.google.com/uc?export=view&id=1OfiLs18cI_omYZ22SjervuaLZeUP` avec `1OfiLs18cI_omYZ22SjervuaLZeUP`, l'identifiant unique de l'image.
 
@@ -33,7 +33,7 @@ ou<br />
 
 Dernière etape : coller ce code à l'endroit voulu dans la cellule texte d'un calepin et executerez la cellule. Le code sera remplacé par l'image.
 
-# 3. Conserver les image sur Imgur
+## 3. Conserver les image sur Imgur
 Il est aussi possible d'heberger les images sur des services internet. Il en existe de nombreux. Le plus connu est [Imgur](https://imgur.com/). C'est un site tres populaire auptes des utilisateurs de [Reddit](https://www.reddit.com/). Il n'est pas necessaire de creer un compte sur Imgur pour y heberger des images. Cependant, en creant un compte, vous pourrez mieux organiser vos images.
 Etapes pour placer une image sur Imgur et l'inserer dans une ceklue texte d'un calepin :
 - aller sur [Imgur](https://imgur.com/)
