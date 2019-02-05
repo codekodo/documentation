@@ -16,7 +16,8 @@ Avec cette syntaxe, on peut spécifier la largeur de l'image grace à la declara
 
 ## 2. Conserver les images sur Google Drive
 Si vous conservez vos calepins dans un Google Drive, vous pouvez aussi y conserver les images que vous vous voulez utiliser dans les cellules texte de vos calepins. Imaginons que les images sont conservées dans le dossier <kbd>Mon Drive > calepins > images</kbd>. Et que dans ce dossier, il y a une image <kbd>monimage.png</kbd>. L'adresse qui permet d'utiliser cette image est de la forme :<br />
-`https://drive.google.com/uc?export=view&id=1OfiLs18cI_omYZ22SjervuaLZeUP` avec `1OfiLs18cI_omYZ22SjervuaLZeUP`, l'identifiant unique de l'image.
+`https://drive.google.com/uc?export=view&id=1OfiLs18cI_omYZ22SjervuaLZeUP`<br />
+avec `1OfiLs18cI_omYZ22SjervuaLZeUP`, l'identifiant unique de l'image.
 
 Pour recuper cet identifiant, il faut :
 - aller sur le Drive et naviger jusqu'au répertoire qui contient l'image. Ex. : <kbd>Mon Drive > calepins > images</kbd>
