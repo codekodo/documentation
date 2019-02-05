@@ -13,6 +13,11 @@ La balise `alt` est optionelle.
 Il est possible de spécifier la largeur de l'image. Le chifree correspond au nombre de pixels. A la place de `width`, il est possible d'utiliser `height` pour definir la hauteur de l'image. Il est aussi possible d'utiliser `width` et `height` en meme temps.
 
 # 2. Conserver les images sur Google Drive
+Si vous conservez vos calepins dans un Google Drive, vous pouvez aussi y conserver les images que vous vous voulez utiliser dans les cellules texte de vos calepins. Imaginons que les images sonversees dans le repertoire `Mon Drive > calepins > images`.Et que dans dossier, il y a une image `monimage.png`. L'adresse qui permettra d'inserer cette image dans la cellule texte d'un calepin sera de la forme :<br />
+`https://drive.google.com/uc?export=view&id=1OfiLs18cI_omYZ22SjervuaLZeUP`<br />
+`1OfiLs18cI_omYZ22SjervuaLZeUP` est le code unique d'identication de l'image. Pour recuper ce code, il suffit de :
+- d'aller sur le Drive et de naviger jusqu'au repertoire qui contient l'image. Ex. : `Mon Drive > calepins > images`
+- 
 
 
 # 3. Conserver les image sur Imgur
