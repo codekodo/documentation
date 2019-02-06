@@ -53,6 +53,6 @@ En remplaçant <kbd>Imgur</kbd> par le texte que vous voulez (ou rien) et en ajo
 Et vous pouvez aussi contruire le code : <br />
 `<img src="https://i.imgur.com/eZdopx.png" alt="description de l'image" width="50" />`
 
-Dernière étape : coller ce code à l'endroit voulu dans la cellule texte d'un calepin et exécutez la cellule. Le code sera remplacé par l'image.
+Dernière étape : coller le code à l'endroit voulu dans la cellule texte d'un calepin et exécutez la cellule. Le code sera remplacé par l'image.
 
 🔎 Si vous voulez en savoir plus à propos de la syntaxe <kbd>markdown</kbd> utilisée dans les cellules texte d'un calepin, vous pouvez consulter cette [page](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html).
