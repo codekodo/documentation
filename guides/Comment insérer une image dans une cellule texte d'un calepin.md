@@ -49,7 +49,8 @@ Etapes pour placer une image sur Imgur et l'insérer dans une cellule texte d'un
 En remplaçant <kbd>Imgur</kbd> par le texte que vous voulez (ou rien) et en ajoutant un point d'exclamation devant, vous obtiendrez le code à insérer dans votre cellule texte :
 
 `![description de l'image](https://i.imgur.com/eZdopx.png)`<br />
-ou<br />
+
+Et vous pouvez aussi contruire le code : <br />
 `<img src="https://i.imgur.com/eZdopx.png" alt="description de l'image" width="50" />`
 
 Dernière étape : coller ce code à l'endroit voulu dans la cellule texte d'un calepin et exécutez la cellule. Le code sera remplacé par l'image.
