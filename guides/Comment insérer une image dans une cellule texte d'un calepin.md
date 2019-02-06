@@ -46,7 +46,7 @@ Etapes pour placer une image sur Imgur et l'insérer dans une cellule texte d'un
 - une fenêtre apparait avec quatre propositions de lien ; copier le lien <kbd>Markdown (Reddit)</kbd>, il est de la forme :<br />
 `[Imgur](https://i.imgur.com/eZdopx.png)`
 
-En remplaçant <kbd>Imgur</kbd> par le texte que vous voulez (ou rien) et en ajoutant un point d'exclamation devant, vous obtiendrez le code à insérer dans vos cellule texte :
+En remplaçant <kbd>Imgur</kbd> par le texte que vous voulez (ou rien) et en ajoutant un point d'exclamation devant, vous obtiendrez le code à insérer dans votre cellule texte :
 
 `![description de l'image](https://i.imgur.com/eZdopx.png)`<br />
 ou<br />
