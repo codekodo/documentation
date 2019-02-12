@@ -1,11 +1,11 @@
 ## Qu'est ce au'un calepin
-En informatiaues, tout fichier est lie a un ou plsieurs logiciels. Par exemple, un fichier Word (en .docx) à besoin du logiciel Word pour pouvoir etre modifie. Un fihcier PDF a besoin de PDF Reader (ou d'un logiciel equivalnt) pour pouvoir etre lu. Un fichier texte (en .txt) a besoin de Notepad, ou de WordPad ou de tout autre logiciel qui est capbpable de lire et modifie un fichier texste.
+En informatiaues, tout fichier est lie a un ou plsieurs logiciels. Par exemple, un fichier Word (en .docx) à besoin du logiciel Word pour pouvoir etre modifie. Un fihcier PDF (en .pdf) a besoin de PDF Reader (ou d'un logiciel equivalnt) pour pouvoir etre lu. Un fichier texte (en .txt) a besoin de Notepad, ou de WordPad ou de tout autre logiciel qui est capbpable de lire et modifie un fichier texste.
 
-Cest logiciel aqui permeetent de mqnipuler certain type de fichier pour etre des logiciel installe sur un ordinateur et / ou des service en ligne que lù'on utilise avec un navigateur Web 5Chrome, Firefox, Internet Exploerer...). Par exemple, les fichiers Word euvent etre utilise avec lù'application Word, mais aussi avec se version en ligne Word Online que lùon utilise via un navigateur. Certain fichier ne fonctionne que via un navigateur. C'est le cas des Google Docs. 
+Cest logiciel aqui permeetent de mqnipuler certain type de fichier pour etre des logiciel installe sur un ordinateur et / ou des service en ligne que lù'on utilise avec un navigateur Web 5Chrome, Firefox, Internet Exploerer...). Par exemple, les fichiers Word euvent etre utilise avec lù'application Word installe sur lùordinateur, mais aussi avec se version en ligne Word Online que lùon utilise via un navigateur. Certain fichier ne peuvent etre manipule que via un navigateur. C'est le cas des Google Docs. 
 
 Pour les calpeins,c'est pareil. Un calepin est un autre type de fichier (en .ipynb), et pour poivoir manipuler ces fichier il faut une application particuliere qui est Jupyter. Jupyter peut etre installe sur un ordinateur et sur un seveur. Dans les deux cas, Jupyter s'ouvre à l'aide dùun navigateur.
 
-Pour résumer : un calepins se creer et se mdifie a l'aide de lapplication Jupyter que l'on ouvre via un navigateur.
+Pour résumer : un calepins se creer et se mdifie a l'aide de lapplication Jupyter que l'on utilise via un navigateur.
 
 
 
