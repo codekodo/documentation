@@ -1,0 +1,16 @@
+## Qu'est ce au'un calepin
+
+
+
+
+
+
+
+## Qu'est ce aue Jupyter
+
+Jupyter exsite sous plusieurs forme. Le fond ne change pas, ma sa presentations peut varier legerement :
+- le Jupyter classique tel qu'on e retrouve sur une installtion classique de Jupyter ou sur un service comme Binder
+- le Jupyter de Google : Colaboratory. Le coeur et les fonctionnalites sont les memmes que pour un Jupyter classique. Mais l'interface graphique est différentes
+- le Jupyter de Microsoft : Azure Notebook. Le coeur et les fonctionnalites sont les memmes que pour un Jupyter classique. L'interface reste tres proche de la version classique. Seule la version generale des fichiers et des projets differe.
+
+Quelaue soit la version de Jupyter utilisee, les claepins crees, eux, sont tous identiaues et fonctionneront de la meme maniere sur n'importe quelle. La seule difference peut se situe au niveau des bibliotheaues supplementaires qui sont installees. Ceci dit, si une bibliotheque n'est pqs presente de fqcon nqtive sur le Jupyter que vous utilise il est toujours possible de lùajouter depuis un calepin 5voir Comment ajouter une biblithque depuis un calepin).
