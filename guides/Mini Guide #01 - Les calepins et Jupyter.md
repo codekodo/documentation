@@ -20,7 +20,7 @@ Jupyter est un logiciel libre qui existe sous plusieurs formes et dont le nom va
 * le Jupyter de Google : Colaboratory. Le cœur et les fonctionnalités sont les mêmes que pour un Jupyter classique. Mais l'interface graphique est différente.
 * le Jupyter de Microsoft : Azure Notebook. Le cœur et les fonctionnalités sont les mêmes que pour un Jupyter classique. L'interface reste très proche de la version classique. Seule la gestion générale des fichiers et des projets diffère.
 
-Quelle que soit la version de Jupyter utilisée, les calepins créés, eux, sont tous identiques et fonctionneront de la même manière sur n'importe quelle version de Jupyter. La seule différence peut se situer au niveau des bibliothèques supplémentaires qui sont installées. Cela dit, si une bibliothèque n'est pas présente de façon native sur le Jupyter que vous utilisez, il est toujours possible de l’ajouter depuis un calepin (voir « Comment ajouter une bibliothèque depuis un calepin »).
+Quelle que soit la version de Jupyter utilisée, les calepins créés, eux, sont tous identiques et fonctionneront de la même manière sur n'importe quelle version de Jupyter. Par exemple, La seule différence peut se situer au niveau des bibliothèques supplémentaires qui sont installées. Cela dit, si une bibliothèque n'est pas présente de façon native sur le Jupyter que vous utilisez, il est toujours possible de l’ajouter depuis un calepin (voir « Comment ajouter une bibliothèque depuis un calepin »).
 
 ## 3. Les différentes interfaces de Jupyter
 ### 3.1. Le Jupyter Classique - Jupyter Lab
@@ -35,7 +35,7 @@ L’interface est assez éloignée de celle de Jupyter Lab mais le mode d’util
 
 <p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/mon-premier-calepin-colaboratory.png" /></p>
 
-### 3.3. Le Jupyter de Microsoft – Azure Notebook
+### 3.3. Le Jupyter de Microsoft - Azure Notebook
 Pour utiliser cette version qui n’existe qu’en ligne, vous devez posséder un compte Microsoft.
 Adresse : [notebooks.azure.com](https://notebooks.azure.com)
 L’interface est assez proche de celle de Jupyter Lab.
