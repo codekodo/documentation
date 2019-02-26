@@ -24,17 +24,17 @@ Quelle que soit la version de Jupyter utilisée, les calepins créés, eux, sont
 
 ## Les différentes interfaces de Jupyter
 ###Le Jupyter Classique - Jupyter Lab
-Pour installer cette version de Jupyter sur un ordinateur Windows, vous pouvez utiliser : (fff)[https://www.portabledevapps.net/jupyter-portable.php]
+Pour installer cette version de Jupyter sur un ordinateur Windows, vous pouvez utiliser : [www.portabledevapps.net](https://www.portabledevapps.net/jupyter-portable.php)
 
 
 ### Le Jupyter de Google - Colaboratory
 Pour utiliser cette version qui n’existe qu’en ligne vous devez posséder un compte Google.
-Adresse : https://colab.research.google.com
+Adresse : [colab.research.google.com](https://colab.research.google.com)
 L’interface est assez éloignée de celle de Jupyter Lab mais le mode d’utilisation et les fonctionnalités restent les mêmes.
 
 
 ### Le Jupyter de Microsoft – Azure Notebook
 Pour utiliser cette version qui n’existe qu’en ligne, vous devez posséder un compte Microsoft.
-Adresse : https://notebooks.azure.com
+Adresse : [notebooks.azure.com](https://notebooks.azure.com)
 L’interface est assez proche de celle de Jupyter Lab.
 
