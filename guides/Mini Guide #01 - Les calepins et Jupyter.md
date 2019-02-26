@@ -1,4 +1,4 @@
-♻️ Attention, ce document est mis à jour régulièrement en fonction des remarques, des questions et de l'évolution des environnements.
+♻️ _Attention, ce document est mis à jour régulièrement en fonction des remarques, des questions et de l'évolution des environnements._
 
 ## 1. Qu'est-ce qu'un calepin
 En informatique, tout fichier est lié à un ou plusieurs logiciels. Par exemple, un fichier Word (en .docx) a besoin du logiciel Word pour pouvoir être modifié. Un fichier PDF (en .pdf) a besoin de PDF Reader (ou d'un logiciel équivalent) pour pouvoir être lu. Un fichier texte (en .txt) a besoin de Notepad, ou de WordPad ou de tout autre logiciel qui est capable de lire et modifier un fichier texte.
