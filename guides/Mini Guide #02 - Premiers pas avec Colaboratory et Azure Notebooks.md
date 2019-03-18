@@ -1,6 +1,6 @@
 ♻️ _Attention, ce document est mis à jour régulièrement en fonction des remarques, des questions et de l'évolution des environnements._
 
-## 1. Pourquoi Colaboratory et Azure Notebooks?
+## 1. Pourquoi Colaboratory ou Azure Notebooks?
 
 **Avantages :**
 * services en ligne donc pas d'installation (inutile de solliciter le service IT de l'établissement pour mettre en place l'environnement de travail)
