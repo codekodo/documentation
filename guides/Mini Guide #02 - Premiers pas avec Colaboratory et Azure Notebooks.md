@@ -4,7 +4,7 @@
 
 **Avantages :**
 * services en ligne, pas d'installation (donc inutile de soliciter le service IT de l'ecole pour mettre en place l'environement de travail)
-* utilisation possible avec des Chromebooks / tablettes (il n'est pas possible d'installer des environement de developemnt style Anaconda, XXX ou autre sur un Chromebook)
+* utilisation possible avec des Chromebooks / tablettes (il n'est pas possible d'installer des environement de developemnt comme Anaconda, PyCharm, Spyder ou autres sur un Chromebook)
 * uniformite de l'environnement et des formats (enseignant et eleves travaillent avec les memes outils - ils donc facile d'aider les eleves et d'encadrer les classes)
 * outils integrer a des environnemts "classroom" (il est donc facile de creer des sequences interactves avec creation, modification, partage et evaluation des travaux)
 * richesse des outils (toutes les bibliotheques sont pre-installées ou s'intallent automatiquement)
@@ -18,8 +18,10 @@
 ## Premiers pas avec Colaboratory
 1. Ouvrir un navigateur et saisir l'adresse `[https://colab.research.google.com](https://colab.research.google.com)`
 2. Se connecter au service avec une adresse Gmail (Sign in au haut à droite de la page d'accueil)
+<p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/mon-premier-calepin-jupyterlab.png" /></p>
 3. Cliquer sur "File" et selectionner "New Python 3 Notebook" pour creer votre premier calepin.
 4. Cliquer sur le titre pour le changer (ne pas modifier l'extension ".ipynb")
+<p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/mon-premier-calepin-jupyterlab.png" /></p>
 5. Lors de la creation du calepin, une premier cellule est presente. Il s'agit d'une cellule `code`. Vous pouvez donc saisir du code Python dans cette cellule. Par exemple :
 # Code Python
 print('mon premier code Pyton')
