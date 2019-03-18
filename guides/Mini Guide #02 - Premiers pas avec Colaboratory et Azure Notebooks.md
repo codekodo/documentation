@@ -33,8 +33,9 @@ print('mon premier code Pyton')
 6. Cliquer sur le bouton `Run cell` à gauche de la cellule ou utiliser la combinaison de touches `Ctrl + Enter`. Ainsi, le code s'execute et le résultat apparait sous la celllue.
 <p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/premiers-pas-04.png" /></p>
 7. Pour créer une cellule `texte`, cliquer sur `Add text cell`. Le bouton `Add text cell` est présent dans le menu du haut à coté du bouton `Add code cell`, mais aussi sous une cellule déjà créée (placer la souris sous une cellule pour faire apparaitre les boutons `Add text cell` et `Add code cell`)
+<p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/premiers-pas-05.png" /></p>
 
-Pour completer le calepinm il suffit d'ajouter des cellules `code` et des cellules `texte` et de la organiser correctement pour obtenir un document complet et structuré que vous pouvez partager via `Classroom` avec les élèves ou des collègues.
+Pour completer le calepin, il suffit d'ajouter des cellules `code` et des cellules `texte` et de la organiser correctement afin d'obtenir un document complet et structuré que vous pouvez partager via `Classroom` avec les élèves ou des collègues.
 
 Pour vous famliariser davantage avec les calelpins, vous pouvez ouvrir les calepins des dossiers "[Python pour la Physique-Chimie en seconde](https://www.codekodo.net/course/60)" ou "[Exemples](https://www.codekodo.net/course/60)" directement dans Colaboratory en cliquant sur les icones `Colaboratory` présentes sous les titres des calepins.
 
