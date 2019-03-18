@@ -1,6 +1,6 @@
 ♻️ _Attention, ce document est mis à jour régulièrement en fonction des remarques, des questions et de l'évolution des environnements._
 
-## Pourquoi Colaboratory et Azure Notebooks ?
+## 1. Pourquoi Colaboratory et Azure Notebooks ?
 
 **Avantages :**
 * services en ligne, pas d'installation (donc inutile de solliciter le service IT de l'établissement pour mettre en place l'environnement de travail)
@@ -14,7 +14,7 @@
 * connexion internet nécessaire
 
 
-## Premiers pas avec Colaboratory
+## 2. Premiers pas avec Colaboratory
 1. Ouvrir un navigateur et saisir l'adresse [https://colab.research.google.com](https://colab.research.google.com)
 2. Se connecter au service avec une adresse Gmail (`Sign in` au haut à droite de la page d'accueil)
 
@@ -47,5 +47,5 @@ Pour compléter le calepin, il suffit d'ajouter des cellules `code` et des cellu
 
 Pour vous familiariser davantage avec les calepins, vous pouvez ouvrir les calepins des dossiers "[Python pour la Physique-Chimie en seconde](https://www.codekodo.net/course/60)" ou "[Exemples](https://www.codekodo.net/course/60)" directement dans Colaboratory en cliquant sur les icones `Colaboratory` présentes sous les titres des calepins.
 
-## Premiers pas avec Azure Notebooks
+## 3. Premiers pas avec Azure Notebooks
 En cours d'écriture...
