@@ -9,6 +9,7 @@
 * outils intégrés à des environnements "Classroom" (possibilité de mettre automatiquement en place des séquences interactives avec création, modification, partage et évaluation des travaux)
 * richesse des outils (toutes les bibliothèques sont préinstallées ou s'installent automatiquement)
 * pas de connaissance techniques nécessaires (l'environnement se met automatiques à jour et intègre ainsi les versions les plus stables des outils)
+* puissance de calcul indépendante de l'ordinateur utilisé (les calculs sont effectués par le serveur, pas par l'ordinateur)
 
 **Inconvénient :**
 * connexion internet nécessaire
