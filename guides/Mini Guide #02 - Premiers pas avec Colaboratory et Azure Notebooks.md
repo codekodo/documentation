@@ -16,21 +16,26 @@
 
 
 ## Premiers pas avec Colaboratory
-1. Ouvrir un navigateur et saisir l'adresse `[https://colab.research.google.com](https://colab.research.google.com)`
-2. Se connecter au service avec une adresse Gmail (Sign in au haut à droite de la page d'accueil)
+1. Ouvrir un navigateur et saisir l'adresse [https://colab.research.google.com](https://colab.research.google.com)
+2. Se connecter au service avec une adresse Gmail (`Sign in` au haut à droite de la page d'accueil)
 <p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/mon-premier-calepin-jupyterlab.png" /></p>
-3. Cliquer sur "File" et selectionner "New Python 3 Notebook" pour creer votre premier calepin.
+3. Cliquer sur "File" et selectionner "New Python 3 Notebook" pour créer votre premier calepin
 4. Cliquer sur le titre pour le changer (ne pas modifier l'extension ".ipynb")
 <p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/mon-premier-calepin-jupyterlab.png" /></p>
-5. Lors de la creation du calepin, une premier cellule est presente. Il s'agit d'une cellule `code`. Vous pouvez donc saisir du code Python dans cette cellule. Par exemple :
+5. Lors de la création du calepin, une première cellule est présente. Il s'agit d'une cellule `code`. Vous pouvez donc saisir du code Python dans cette cellule. Par exemple :
+
+```python
 # Code Python
 print('mon premier code Pyton')
-6. Cliquer sur le bouton "Runcell" à gauche de la cellule, utiliser la combinaison de touchent `Ctrl + Enter`. Ainsi, le code s'execute et le resultat apparait sous la celllue.
-7. Pour creer une cellule `texte`, cliquer sur `Add text cell`. Le boton `Add text cell` est present dans le menu du haut à cote du bouton `Add code cell`, ou et sous une celleule deja cree (placer la souris sous une celleule pour faire apparaitre les boutons `Add text cell` et `Add code cell`)
-8. 
-Pour completer le calepinm ilsuffit d'ajouter des cellules `code` e t des cellules `texte` et de la organiser correstemant pour obtenir un docuemeny complet et strucute.
+```
 
-Vous pouvez ouvrir les calepins des dossiers "" et "" directement dans colleboratory en cliquant sur les lien `` qui sont presents sous les titres des calepins.
+6. Cliquer sur le bouton `Runcell` à gauche de la cellule ou utiliser la combinaison de touches `Ctrl + Enter`. Ainsi, le code s'execute et le résultat apparait sous la celllue.
+<p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/mon-premier-calepin-jupyterlab.png" /></p>
+7. Pour creer une cellule `texte`, cliquer sur `Add text cell`. Le bouton `Add text cell` est présent dans le menu du haut à coté du bouton `Add code cell`, mais aussi sous une cellule déjà créée (placer la souris sous une cellule pour faire apparaitre les boutons `Add text cell` et `Add code cell`)
+
+Pour completer le calepinm il suffit d'ajouter des cellules `code` et des cellules `texte` et de la organiser correctement pour obtenir un document complet et structuré.
+
+Pour vous famliariser davantage avec les calelpins, vous pouvez ouvrir les calepins des dossiers "" et "" directement dans colleboratory en cliquant sur les lien `` qui sont presents sous les titres des calepins.
 
 ## Premiers pas avec Azure Notebooks
 En cours d'ecriture...
