@@ -36,8 +36,11 @@ print('mon premier code Pyton')
 ```
 
 6. Cliquer sur le bouton `Run cell` à gauche de la cellule ou utiliser la combinaison de touches `Ctrl + Enter`. Ainsi, le code s'exécute et le résultat apparait sous la cellule.
+
 <p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/premiers-pas-04.png" /></p>
+
 7. Pour créer une cellule `texte`, cliquer sur `Add text cell`. Le bouton `Add text cell` est présent dans le menu du haut à côté du bouton `Add code cell`, mais aussi sous une cellule déjà créée (placer la souris sous une cellule pour faire apparaitre les boutons `Add text cell` et `Add code cell`)
+
 <p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/premiers-pas-05.png" /></p>
 
 Pour compléter le calepin, il suffit d'ajouter des cellules `code` et des cellules `texte` et de les organiser correctement afin d'obtenir un document complet et structuré que vous pouvez partager via `Classroom` avec les élèves ou des collègues.
