@@ -43,7 +43,7 @@ print('mon premier code Pyton')
 
 <p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/premiers-pas-05.png" /></p>
 
-Pour compléter le calepin, il suffit d'ajouter des cellules `code` et des cellules `texte` et de les organiser correctement afin d'obtenir un document complet et structuré que vous pouvez partager via `Classroom` avec les élèves ou des collègues.
+Pour compléter le calepin, il suffit d'ajouter des cellules "code" et des cellules "texte" et de les organiser correctement (les cellules peuvent être déplacées grâce aux flèches "haut" et "bas") afin d'obtenir un document complet et structuré que vous pouvez ensuite partager via `Classroom` avec les élèves ou des collègues.
 
 Les calepins s'enregistrent automatiquement sur votre `Google Drive` dans le dossier `Colab Notebooks`.
 
