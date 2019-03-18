@@ -3,7 +3,7 @@
 ## 1. Pourquoi Colaboratory et Azure Notebooks?
 
 **Avantages :**
-* services en ligne, pas d'installation (donc inutile de solliciter le service IT de l'établissement pour mettre en place l'environnement de travail)
+* services en ligne donc pas d'installation (inutile de solliciter le service IT de l'établissement pour mettre en place l'environnement de travail)
 * utilisation possible avec des Chromebooks / tablettes (il n'est pas possible d'installer des environnements de développement comme Anaconda, PyCharm, Spyder ou autres sur un Chromebook)
 * uniformité de l'environnement et des formats (enseignants et élèves travaillent avec les mêmes outils – il est donc facile d'aider les élèves et d'encadrer les classes)
 * outils intégrés à des environnements "Classroom" (il est donc facile de créer des séquences interactives avec création, modification, partage et évaluation des travaux)
