@@ -17,11 +17,17 @@
 ## Premiers pas avec Colaboratory
 1. Ouvrir un navigateur et saisir l'adresse [https://colab.research.google.com](https://colab.research.google.com)
 2. Se connecter au service avec une adresse Gmail (`Sign in` au haut à droite de la page d'accueil)
+
 <p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/premiers-pas-01.png" /></p>
-3. Cliquer sur "File" et sélectionner "New Python 3 Notebook" pour créer votre premier calepin
+
+3. Cliquer sur `File` et sélectionner `New Python 3 Notebook` pour créer votre premier calepin
+
 <p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/premiers-pas-02.png" /></p>
+
 4. Cliquer sur le titre pour le changer (ne pas modifier l'extension ".ipynb")
+
 <p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/premiers-pas-03.png" /></p>
+
 5. Lors de la création du calepin, une première cellule est présente. Il s'agit d'une cellule `code`. Vous pouvez donc saisir du code Python dans cette cellule. Par exemple :
 
 ```python
