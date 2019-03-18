@@ -8,7 +8,7 @@
 * uniformité de l'environnement et des formats (enseignants et élèves travaillent avec les mêmes outils – il est donc facile d'aider les élèves et d'encadrer les classes)
 * outils intégrés à des environnements "Classroom" (il est donc facile de créer des séquences interactives avec création, modification, partage et évaluation des travaux)
 * richesse des outils (toutes les bibliothèques sont préinstallées ou s'installent automatiquement)
-* pas de connaissance techniques nécessaires (l'environnement se met automatiques à jour et est en état de fonctionner 24h sur 24 et 7 jours sur 7)
+* pas de connaissance techniques nécessaires (l'environnement se met automatiques à jour et intègre ainsi les versions les plus stables des outils)
 
 **Inconvénient :**
 * connexion internet nécessaire
@@ -20,7 +20,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/premiers-pas-01.png" /></p>
 
-3. Cliquer sur `File` et sélectionner `New Python 3 Notebook` pour créer votre premier calepin
+3. Cliquer sur `File` et sélectionner `New Python 3 notebook` pour créer votre premier calepin
 
 <p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/premiers-pas-02.png" /></p>
 
@@ -44,6 +44,8 @@ print('mon premier code Pyton')
 <p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/premiers-pas-05.png" /></p>
 
 Pour compléter le calepin, il suffit d'ajouter des cellules `code` et des cellules `texte` et de les organiser correctement afin d'obtenir un document complet et structuré que vous pouvez partager via `Classroom` avec les élèves ou des collègues.
+
+Les calepins s'enregistrent automatiquement sur votre `Google Drive` dans le dossier `Colab Notebooks`.
 
 Pour vous familiariser davantage avec les calepins, vous pouvez ouvrir les calepins des dossiers "[Python pour la Physique-Chimie en seconde](https://www.codekodo.net/course/60)" ou "[Exemples](https://www.codekodo.net/course/60)" directement dans Colaboratory en cliquant sur les icones `Colaboratory` présentes sous les titres des calepins.
 
