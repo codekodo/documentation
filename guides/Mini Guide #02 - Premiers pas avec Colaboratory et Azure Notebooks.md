@@ -6,7 +6,7 @@
 * services en ligne donc pas d'installation (inutile de solliciter le service IT de l'établissement pour mettre en place l'environnement de travail)
 * utilisation possible avec des Chromebooks / tablettes (il n'est pas possible d'installer des environnements de développement "classiques" sur un Chromebook)
 * uniformité de l'environnement et des formats (enseignants et élèves travaillent avec les mêmes outils – il est donc facile d'aider les élèves, d'encadrer les classes et de partager les ressources)
-* outils intégrés à des environnements "Classroom" (il est donc facile de mettre en place des séquences interactives avec création, modification, partage et évaluation des travaux)
+* outils intégrés à des environnements "Classroom" (possibilité de mettre automatiquement en place des séquences interactives avec création, modification, partage et évaluation des travaux)
 * richesse des outils (toutes les bibliothèques sont préinstallées ou s'installent automatiquement)
 * pas de connaissance techniques nécessaires (l'environnement se met automatiques à jour et intègre ainsi les versions les plus stables des outils)
 
