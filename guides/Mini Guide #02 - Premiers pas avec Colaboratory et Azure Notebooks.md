@@ -70,8 +70,6 @@ Remqrque : Colaboratory gere les calepins indepememedna t les uns des autes. Alo
 
 <p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/premiers-pas-an-04.png" /></p>
 
-
-
 6. Le calepin apparait alors au sein du projet. Cliquer sur le nom du calepin pour l'ouvrir.
 
 <p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/premiers-pas-an-05.png" /></p>
@@ -83,13 +81,13 @@ Remqrque : Colaboratory gere les calepins indepememedna t les uns des autes. Alo
 print('mon premier code Python')
 ```
 
-6. Cliquer sur le bouton `▶` ou utiliser la combinaison de touches `Ctrl + Enter`. Ainsi, le code s'exécute et le résultat apparait sous la cellule.
+Cliquer sur le bouton `▶` ou utiliser la combinaison de touches `Ctrl + Enter`. Ainsi, le code s'exécute et le résultat apparait sous la cellule.
 
-<p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/premiers-pas-04.png" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/premiers-pas-an-06.png" /></p>
 
-7. Pour créer une nouvelle cellule "texte" ou "code", cliquer sur `+`, cliquer sur la cellule qui vient de se creer et cliquer sur `Code ⊻`. Le menu deroulant propose alors `Code` ou `Markdown` (équivalent de `TEXT`).
+8. Pour créer une nouvelle cellule "texte" ou "code", cliquer sur `+`, cliquer sur la cellule qui vient de se creer et cliquer sur `Code ⊻`. Le menu deroulant propose alors `Code` ou `Markdown` (équivalent de `TEXT`).
 
-<p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/premiers-pas-05.png" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/premiers-pas-an-07.png" /></p>
 
 Pour compléter le calepin, il suffit d'ajouter des cellules "code" et des cellules "markdown" et de les organiser correctement (les cellules peuvent être déplacées en les selectionnaer et en deplacant avec la souris) afin d'obtenir un document complet et structuré.
 
