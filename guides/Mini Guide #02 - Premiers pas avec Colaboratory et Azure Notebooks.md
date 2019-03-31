@@ -52,7 +52,7 @@ Les calepins s'enregistrent automatiquement sur votre `Google Drive` dans le dos
 1. Ouvrir un navigateur et saisir l'adresse [https://notebooks.azure.com](https://notebooks.azure.com)
 2. Se connecter au service avec l'adresse courriel de votre choix (`Sign In` au haut à droite de la page d'accueil).
 
-Remarque : Colaboratory (un service Google) nécessite une adresse courriel Gmail, alors qu’Azure Notebooks (un service Microsoft) accepte n'importe quelle adresse courriel. Azure Notebooks est donc intéressant pour les établissements qui ne fournissent pas d'adresse Gmail aux élèves et enseignants.
+Remarque : Colaboratory (un service Google) nécessite une adresse courriel Gmail, alors qu’Azure Notebooks (un service Microsoft) accepte n'importe quelle adresse courriel. Azure Notebooks est donc intéressant pour les établissements qui ne fournissent pas d'adresse Gmail aux élèves et enseignants ou qui ne proposent pas un environnement "G Suite for education".
 
 <p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/premiers-pas-an-01.png" /></p>
 
