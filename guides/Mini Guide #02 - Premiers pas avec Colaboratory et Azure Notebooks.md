@@ -85,12 +85,12 @@ Cliquer sur le bouton `▶` ou utiliser la combinaison de touches `Ctrl + Enter`
 
 <p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/premiers-pas-an-06.png" /></p>
 
-8. Pour créer une nouvelle cellule "texte" ou "code", cliquer sur `+`, cliquer sur la cellule qui vient de se créer et cliquer sur `Code ⊻`. Le menu déroulant propose alors `Code` ou `Markdown` (équivalent de `TEXT`).
+8. Pour créer une nouvelle cellule "texte" ou "code", cliquer sur `+`. Cliquer sur la cellule qui vient de se créer et cliquer sur `Code ⊻`. Le menu déroulant propose alors `Code` ou `Markdown` (équivalent de `TEXT`).
 
 Pour compléter le calepin, il suffit d'ajouter des cellules "Code" et des cellules "Markdown" et de les organiser correctement (les cellules peuvent être déplacées en les sélectionnant et en les faisant glisser avec la souris) afin d'obtenir un document complet et structuré.
 
 Pour enregistrer les calepins, cliquer sur l'icône qui représente une disquette.
 
-Dans le menu de gauche, vous pouvez visualiser tous les fichiers et dossiers de votre projet. Vous pouvez, directement depuis ce menu, créer des nouveaux calepins, de nouveaux dossiers et réorganiser les fichiers.
+Dans le menu de gauche, vous pouvez visualiser tous les fichiers et dossiers de votre projet. Vous pouvez, directement depuis ce menu, créer des nouveaux calepins, de nouveaux dossiers et réorganiser les documents.
 
 Pour vous familiariser davantage avec les calepins, vous pouvez ouvrir les calepins des dossiers "[Python pour la Physique-Chimie en seconde](https://www.codekodo.net/course/60)" ou "[Exemples](https://www.codekodo.net/course/60)" directement dans Colaboratory en cliquant sur les icones `Colaboratory` présentes sous les titres des calepins.
