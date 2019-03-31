@@ -50,23 +50,23 @@ Les calepins s'enregistrent automatiquement sur votre `Google Drive` dans le dos
 
 ## 3. Premiers pas avec Azure Notebooks
 1. Ouvrir un navigateur et saisir l'adresse [https://notebooks.azure.com](https://notebooks.azure.com)
-2. Se connecter au service avec l'adrese courriel de votre choix (`Sign In` au haut à droite de la page d'accueil).
+2. Se connecter au service avec l'adresse courriel de votre choix (`Sign In` au haut à droite de la page d'accueil).
 
-Remarque : Colaboratory (un service Google) nécessite une addresse courriel Gmail, alors que Azure Notebooks (un service Microsoft) accepte n'importe quelle adresse courriel. Azure Notebooks est donc interessant pour les etablissements qui ne fournissent pas d'adresse Gamil aux eleves et ensiengants.
+Remarque : Colaboratory (un service Google) nécessite une adresse courriel Gmail, alors qu’Azure Notebooks (un service Microsoft) accepte n'importe quelle adresse courriel. Azure Notebooks est donc intéressant pour les établissements qui ne fournissent pas d'adresse Gmail aux élèves et enseignants.
 
 <p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/premiers-pas-an-01.png" /></p>
 
 3. Cliquer sur `My Projects` et sélectionner `+ New Project` pour créer votre premier projet.
 
-Remqrque : Colaboratory gere les calepins indepememedna t les uns des autes. Alors que Azure Notebooks classe les calepins par "Projet". 
+Remarque : Colaboratory gère les calepins indépendamment les uns des autres. Alors qu’Azure Notebooks classe les calepins par "Projet". 
 
 <p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/premiers-pas-an-02.png" /></p>
 
-4. Choissir un nom pour le prjet et decider si le prjet doit etre pulbic. Pour ne pas compliquer la demarche, decocher `Initialize this project with a README`.
+4. Choisir un nom pour le projet et décider si le projet doit être public. Pour ne pas compliquer la démarche, décocher `Initialize this project with a README`.
 
 <p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/premiers-pas-an-03.png" /></p>
 
-5. Sur la page suivante, cliquer sur `+` et selectionner `Notebook` pour creer le premier Notebook du projet. Le manu deroulant indique aussi qu'il est possible de creer des dossiers pour organiser les calepins au sein du projet. Pour l'instant, ne pas tenir compte de `Blank File` et de `Markdown`. Une fentre `Create New Notebook` s'ouvre. Saisir le nom de votre calepin, choisir `Python 3.6` et cliquer sur `New`
+5. Sur la page suivante, cliquer sur `+` et sélectionner `Notebook` pour créer le premier Notebook du projet. Le menu déroulant indique aussi qu'il est possible de créer des dossiers pour organiser les calepins au sein du projet. Pour l'instant, ne pas tenir compte de `Blank File` et de `Markdown`. Une fenêtre `Create New Notebook` s'ouvre. Saisir le nom de votre calepin, choisir `Python 3.6` et cliquer sur `New`.
 
 <p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/premiers-pas-an-04.png" /></p>
 
@@ -85,15 +85,12 @@ Cliquer sur le bouton `▶` ou utiliser la combinaison de touches `Ctrl + Enter`
 
 <p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/premiers-pas-an-06.png" /></p>
 
-8. Pour créer une nouvelle cellule "texte" ou "code", cliquer sur `+`, cliquer sur la cellule qui vient de se creer et cliquer sur `Code ⊻`. Le menu deroulant propose alors `Code` ou `Markdown` (équivalent de `TEXT`).
+8. Pour créer une nouvelle cellule "texte" ou "code", cliquer sur `+`, cliquer sur la cellule qui vient de se créer et cliquer sur `Code ⊻`. Le menu déroulant propose alors `Code` ou `Markdown` (équivalent de `TEXT`).
 
-Pour compléter le calepin, il suffit d'ajouter des cellules "code" et des cellules "markdown" et de les organiser correctement (les cellules peuvent être déplacées en les selectionnaer et en deplacant avec la souris) afin d'obtenir un document complet et structuré.
+Pour compléter le calepin, il suffit d'ajouter des cellules "Code" et des cellules "Markdown" et de les organiser correctement (les cellules peuvent être déplacées en les sélectionnant et en les faisant glisser avec la souris) afin d'obtenir un document complet et structuré.
 
-Pour enregister les calepins, cliquer sur l'icone qui repsene une disquette.
+Pour enregistrer les calepins, cliquer sur l'icône qui représente une disquette.
 
-Dans le menu de gauche, vous pouvez visaulire tous les fichiers et dossier de votre projet. Vous pouvez, directement depuis ce menu, creer des nouveaux calepins, de nouveaux dossier et reogansier vos fochier.
+Dans le menu de gauche, vous pouvez visualiser tous les fichiers et dossiers de votre projet. Vous pouvez, directement depuis ce menu, créer des nouveaux calepins, de nouveaux dossiers et réorganiser les fichiers.
 
 Pour vous familiariser davantage avec les calepins, vous pouvez ouvrir les calepins des dossiers "[Python pour la Physique-Chimie en seconde](https://www.codekodo.net/course/60)" ou "[Exemples](https://www.codekodo.net/course/60)" directement dans Colaboratory en cliquant sur les icones `Colaboratory` présentes sous les titres des calepins.
-
-## 3. Premiers pas avec Azure Notebooks
-En cours d'écriture...
