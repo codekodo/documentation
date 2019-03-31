@@ -66,15 +66,15 @@ Remqrque : Colaboratory gere les calepins indepememedna t les uns des autes. Alo
 
 <p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/premiers-pas-an-03.png" /></p>
 
-5. Sur la page suivante, cliquer sur `+` et selectionner `Notebook` pour creer le premier Notebook du projet. Le manu deroulant indique aussi qu'il est possible de creer des dossiers pour organiser les calepins au sein du projet. Pour l'instant, ne pas tenir compte de `Blank File` et de `Markdown`.
+5. Sur la page suivante, cliquer sur `+` et selectionner `Notebook` pour creer le premier Notebook du projet. Le manu deroulant indique aussi qu'il est possible de creer des dossiers pour organiser les calepins au sein du projet. Pour l'instant, ne pas tenir compte de `Blank File` et de `Markdown`. Une fentre `Create New Notebook` s'ouvre. Saisir le nom de votre calepin, choisir `Python 3.6` et cliquer sur `New`
 
 <p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/premiers-pas-an-04.png" /></p>
 
-6. Une fentre `Create New Notebook` s'ouvre. Saisir le nom de votre calepin, choisir `Python 3.6` et cliquer sur `New`
+
+
+6. Le calepin apparait alors au sein du projet. Cliquer sur le nom du calepin pour l'ouvrir.
 
 <p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/premiers-pas-an-05.png" /></p>
-
-7. Le calepin apparait alors au sein du projet. Cliquer sur le nom du calepin pour l'ouvrir.
 
 7. Lorsque le calepin s'ouvre, une première cellule est présente. Il s'agit d'une cellule "code". Vous pouvez donc saisir du code Python dans cette cellule. Par exemple :
 
