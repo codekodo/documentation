@@ -60,7 +60,7 @@ Remarque : Colaboratory (un service Google) nécessite une addresse courriel Gma
 
 Remqrque : Colaboratory gere les calepins indepememedna t les uns des autes. Alors que Azure Notebooks classe les calepins par "Projet". 
 
-<p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/premiers-pas-02.png" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/codekodo/documentation/master/guides/premiers-pas-an-02.png" /></p>
 
 4. Choissir un nom pour le prjet et decider si le prjet doit etre pulbic. Pour ne pas compliquer la demarche, decocher `Initialize this project with a README`.
 
