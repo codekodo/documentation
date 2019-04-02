@@ -1,8 +1,25 @@
 ♻️ _Attention, ce document est mis à jour régulièrement en fonction des remarques, des questions et de l'évolution des environnements._
 
 ## 1. Introduction
+En Python, il est facile de creer des figures animees grace a Matplotlib et sa fonction `animation`. Des script Python qui utilisent cette bilbiotheque fonctionneraont normatlement sur des environnement comme Spyder ou PyCharm.
+Pour avoir le meme rendu avec Jputyer, il est necessaire de convertir cette animtion soit en Javascript, soit en video. Ces consversion se font facielement grace a deux lignes de codes a ajouter :
 
-## 2.. Animation des figures avec javascript
+* pour la conversion Javascript
+```python
+from IPython.display import HTML
+HTML(ani.to_jshtml())
+```
+
+* pour la conversion video
+```python
+from IPython.display import HTML
+HTML(anim.to_html5_video())
+```
+
+A vous choisir le type de conversion que vous voulez utiliser. Les deux ont des avantages et des incovenient. La conversion javascript permet d'avoir sous la fifure des commandes qui permettent sw cobntroler le defilementn de l'animation. La conversion video permet d'avoir une video que l'on peut afficher en plein ecran et que l'on peut telepcharger au format `.mp4`. Par contre pour pouvoir tuliser la video, les codecs `ffmpeg` doivent etre present sur la machine. Si ce n'est pas cas, un message d'erreur apparaitra.
+
+
+## 2. Animation des figures avec javascript
 ## 2.1. Exemple 1 : sinusoide
 
 ```python
@@ -34,11 +51,12 @@ anim = animation.FuncAnimation(fig, animate, init_func=init,
                                frames=100, interval=20, 
                                blit=True)
 
-# affichage avec commandes javascript
+# conversion javascript
 HTML(anim.to_jshtml())
 ```
 ## 2.2. Exemple 2 : tangente
 
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import animation
@@ -75,10 +93,12 @@ def animate(i):
 
 anim = animation.FuncAnimation(fig, animate, init_func=init, frames=100, interval=100, blit=True)
 
+# conversion javascript
 HTML(anim.to_jshtml())
+```
 
 ## 3. Animation des figures avec une video
-
+## 3.1. Exemple 1 : sinusoide
 
 ```python
 import numpy as np
@@ -109,7 +129,49 @@ anim = animation.FuncAnimation(fig, animate, init_func=init,
                                frames=100, interval=20, 
                                blit=True)
 
-# affichage video
-# ATTENTION : 
+# conversion video
+HTML(anim.to_html5_video())
+```
+
+## 2.2. Exemple 2 : tangente
+
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+from matplotlib import animation
+from IPython.display import HTML
+
+# animate over some set of x, y
+x = np.linspace(-4, 4, 100)
+y = np.sin(x)
+
+# First set up the figure, the axes, and the plot element
+fig, ax = plt.subplots()
+plt.close()
+ax.set_xlim(( -4, 4))
+ax.set_ylim((-2, 2))
+line1, = ax.plot([], [], lw=2)
+line2, = ax.plot([], [], lw=2)
+
+# initialization function: plot the background of each frame
+def init():
+    line1.set_data(x, y)      
+    return (line1,)
+  
+# animation function: this is called sequentially
+def animate(i):
+  at_x = x[i]
+  
+  # gradient_line will have the form m*x + b
+  m = np.cos(at_x)
+  b = np.sin(at_x) - np.cos(at_x)*at_x
+  gradient_line = m*x + b
+  
+  line2.set_data(x, gradient_line)
+  return (line2,)
+
+anim = animation.FuncAnimation(fig, animate, init_func=init, frames=100, interval=100, blit=True)
+
+# conversion video
 HTML(anim.to_html5_video())
 ```
