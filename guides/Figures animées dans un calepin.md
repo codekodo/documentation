@@ -136,7 +136,7 @@ anim = animation.FuncAnimation(fig, animate, init_func=init,
 HTML(anim.to_html5_video())
 ```
 
-### 2.2. Exemple 2 : tangente
+### 3.2. Exemple 2 : tangente
 
 ```python
 import numpy as np
