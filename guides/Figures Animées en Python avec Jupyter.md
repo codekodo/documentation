@@ -1,8 +1,7 @@
 ♻️ _Attention, ce document est mis à jour régulièrement en fonction des remarques, des questions et de l'évolution des environnements._
 
 ## 1. Introduction
-En Python, il est facile de creer des figures animees grace a Matplotlib et sa fonction `animation`. Des script Python qui utilisent cette bilbiotheque fonctionneraont normatlement sur des environnement comme Spyder ou PyCharm.
-Pour avoir le meme rendu avec Jputyer, il est necessaire de convertir cette animtion soit en Javascript, soit en video. Ces consversion se font facielement grace a deux lignes de codes a ajouter :
+En Python, il est facile de créer des figures animées grâce à Matplotlib et sa fonction `animation`. Des programmes Python qui utilisent cette bibliothèque fonctionneront normalement sur des environnements comme Spyder ou PyCharm. Pour avoir le même rendu avec Jupyter, il est nécessaire de convertir cette animation soit en Javascript, soit en vidéo. Ces conversions se font facilement grâce à deux lignes de codes à ajouter dans le programme :
 
 * pour la conversion Javascript
 ```python
@@ -16,7 +15,7 @@ from IPython.display import HTML
 HTML(anim.to_html5_video())
 ```
 
-A vous choisir le type de conversion que vous voulez utiliser. Les deux ont des avantages et des incovenient. La conversion javascript permet d'avoir sous la fifure des commandes qui permettent sw cobntroler le defilementn de l'animation. La conversion video permet d'avoir une video que l'on peut afficher en plein ecran et que l'on peut telepcharger au format `.mp4`. Par contre pour pouvoir tuliser la video, les codecs `ffmpeg` doivent etre present sur la machine. Si ce n'est pas cas, un message d'erreur apparaitra.
+A vous choisir le type de conversion que vous voulez utiliser. Les deux ont des avantages et des inconvénients. La conversion Javascript permet d'avoir, sous la figure, des commandes qui permettent de contrôler le défilement de l'animation. La conversion vidéo permet d'avoir une vidéo que l'on peut afficher en plein écran et que l'on peut télécharger au format `.mp4`. Par contre, pour pouvoir utiliser la conversion vidéo, les codecs `ffmpeg` doivent être présents sur la machine. Si ce n'est pas cas, un message d'erreur apparaitra.
 
 
 ## 2. Animation des figures avec javascript
