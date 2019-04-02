@@ -23,7 +23,7 @@ A vous choisir le type de conversion que vous voulez utiliser. Les deux ont des 
 
 
 ## 2. Animation des figures en Javascript
-### 2.1. Exemple 1 : sinusoide
+### 2.1. Exemple 1 : sinusoïde
 
 ```python
 import numpy as np
@@ -101,7 +101,7 @@ HTML(anim.to_jshtml())
 ```
 
 ## 3. Animation des figures en vidéo
-### 3.1. Exemple 1 : sinusoide
+### 3.1. Exemple 1 : sinusoïde
 
 ```python
 import numpy as np
