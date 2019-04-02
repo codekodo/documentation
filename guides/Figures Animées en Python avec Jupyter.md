@@ -18,7 +18,7 @@ HTML(anim.to_html5_video())
 A vous choisir le type de conversion que vous voulez utiliser. Les deux ont des avantages et des inconvénients. La conversion Javascript permet d'avoir, sous la figure, des commandes qui permettent de contrôler le défilement de l'animation. La conversion vidéo permet d'avoir une vidéo que l'on peut afficher en plein écran et que l'on peut télécharger au format `.mp4`. Par contre, pour pouvoir utiliser la conversion vidéo, les codecs `ffmpeg` doivent être présents sur la machine. Si ce n'est pas cas, un message d'erreur apparaitra.
 
 
-## 2. Animation des figures avec javascript
+## 2. Animation des figures en Javascript
 ## 2.1. Exemple 1 : sinusoide
 
 ```python
@@ -96,7 +96,7 @@ anim = animation.FuncAnimation(fig, animate, init_func=init, frames=100, interva
 HTML(anim.to_jshtml())
 ```
 
-## 3. Animation des figures avec une video
+## 3. Animation des figures en vidéo
 ## 3.1. Exemple 1 : sinusoide
 
 ```python
