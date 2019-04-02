@@ -17,7 +17,7 @@ HTML(anim.to_html5_video())
 
 A vous choisir le type de conversion que vous voulez utiliser. Les deux ont des avantages et des inconvénients. La conversion Javascript permet d'avoir, sous la figure, des commandes qui permettent de contrôler le défilement de l'animation. La conversion vidéo permet d'avoir une vidéo que l'on peut afficher en plein écran et que l'on peut télécharger au format `.mp4`. Par contre, pour pouvoir utiliser la conversion vidéo, les codecs `ffmpeg` doivent être présents sur la machine. Si ce n'est pas cas, un message d'erreur apparaitra.
 
-💡 Les exemples ci-dessous sont regroupés dans un calpins qui est consultable sur Codekodo dans le dossier ["Exemples" - "4. Exemples - Figure Animées"](https://www.codekodo.net/course/50). Les options qui sont présentes sous le titre du calepin vous permettent de visualiser ce calepin, de l'ouvrir directement dans Colaboratory ou Azure Notebooks ou de le télécharger. 
+💡 Les exemples ci-dessous sont regroupés dans un calpin qui est consultable sur <kbd>Codekodo</kbd> dans le dossier ["Exemples" - "4. Exemples - Figure Animées"](https://www.codekodo.net/course/50). Les options qui sont présentes sous le titre du calepin vous permettent de visualiser ce calepin, de l'ouvrir directement dans Colaboratory ou Azure Notebooks ou de le télécharger. 
 
 👁️ Si vous voulez directement visualiser le calepin, vous pouvez utiliser ce [lien](https://www.codekodo.net/notebook/50/NC4gRXhlbXBsZXMgLSBGaWd1cmUgQW5pbcOpZXMuaXB5bmI=/aHR0cHM6Ly9naXRodWIuY29tL2NvZGVrb2RvL2NhbGVwaW5zL2Jsb2IvbWFzdGVyLzQuJTIwRXhlbXBsZXMlMjAtJTIwRmlndXJlJTIwQW5pbSVDMyVBOWVzLmlweW5i). Attention, le chargement de la page est un peu long.
 
