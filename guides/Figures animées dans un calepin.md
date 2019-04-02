@@ -9,7 +9,7 @@ from IPython.display import HTML
 HTML(ani.to_jshtml())
 ```
 
-* pour la conversion video
+* pour la conversion vidéo
 ```python
 from IPython.display import HTML
 HTML(anim.to_html5_video())
