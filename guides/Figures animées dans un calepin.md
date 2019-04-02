@@ -21,7 +21,7 @@ A vous choisir le type de conversion que vous voulez utiliser. Les deux ont des 
 
 
 ## 2. Animation des figures en Javascript
-## 2.1. Exemple 1 : Sinusoide
+### 2.1. Exemple 1 : Sinusoide
 
 ```python
 import numpy as np
@@ -55,7 +55,7 @@ anim = animation.FuncAnimation(fig, animate, init_func=init,
 # conversion javascript
 HTML(anim.to_jshtml())
 ```
-## 2.2. Exemple 2 : Tangente
+### 2.2. Exemple 2 : Tangente
 
 ```python
 import numpy as np
@@ -99,7 +99,7 @@ HTML(anim.to_jshtml())
 ```
 
 ## 3. Animation des figures en vidéo
-## 3.1. Exemple 1 : Sinusoide
+### 3.1. Exemple 1 : Sinusoide
 
 ```python
 import numpy as np
@@ -134,7 +134,7 @@ anim = animation.FuncAnimation(fig, animate, init_func=init,
 HTML(anim.to_html5_video())
 ```
 
-## 2.2. Exemple 2 : Tangente
+### 2.2. Exemple 2 : Tangente
 
 ```python
 import numpy as np
