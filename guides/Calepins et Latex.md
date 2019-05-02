@@ -2,6 +2,12 @@ Le format calepin permet l'écriture de formules scientifiques au format Latex. 
 Vous trouverez ci-dessous une synthese des elements pricpaux a maitriser.
 
 # 1. Déclaration Latex
+
 Pour indiquer à l'ensviroement l'existence d'une formule Latex, il suffit d'encadrer la firmule avec des "$".
+
 Exemple : $a = \frac{b}{c}$
+
+```math
+\sqrt{2}
+```
 
