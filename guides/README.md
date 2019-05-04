@@ -4,7 +4,7 @@
 
 * [Mini Guide #02 - Premiers pas avec Colaboratory et Azure Notebooks](/documentation/guides/Mini%20Guide%20%2302%20-%20Premiers%20pas%20avec%20Colaboratory%20et%20Azure%20Notebooks.md)
 
-* [Calepins et LateX](/documentation/blob/master/guides/Calepins%20et%20LateX.ipynb)
+* [Calepins et LateX](/documentation/guides/Calepins%20et%20LateX.ipynb)
 
 * [Figures animées dans un calepin](/documentation/guides/Figures%20animées%20dans%20un%20calepin.md)
 
