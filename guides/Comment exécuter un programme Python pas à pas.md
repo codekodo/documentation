@@ -41,6 +41,3 @@ Une fois la cellule exécutée, une interface de contrôle s'affiche. Cette inte
 ## Python Tutor en action
 
 Démo interactive (*attention, le chargement peut être long*) : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/codekodo/documentation/master?filepath=Comment%2520ex%25C3%25A9cuter%2520un%2520programme%2520Python%2520pas%2520%25C3%25A0%2520pas.ipynb)
-
-<br />
-<br />
