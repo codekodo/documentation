@@ -4,6 +4,9 @@
 
 * [Mini Guide #02 - Premiers pas avec Colaboratory et Azure Notebooks](/documentation/guides/Mini%20Guide%20%2302%20-%20Premiers%20pas%20avec%20Colaboratory%20et%20Azure%20Notebooks.md)
 
+* [Comment exécuter un programme Python pas à pas](/documentation/guides/Comment%20ex%C3%A9cuter%20un%20programme%20Python%20pas%20%C3%A0%20pas.ipynb)
+
+
 * [Calepins et LaTeX](/documentation/guides/Calepins%20et%20LaTeX.ipynb)
 
 * [Figures animées dans un calepin](/documentation/guides/Figures%20animées%20dans%20un%20calepin.md)
