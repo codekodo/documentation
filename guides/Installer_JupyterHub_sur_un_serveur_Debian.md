@@ -42,7 +42,7 @@ c.Spawner.default_url = '/lab'
 
 ## Service JupyterHub
 
-A jouter dans `/lib/systemd/system/jupyterhub.service` :
+Dans `/lib/systemd/system/jupyterhub.service`, ajouter :
 ```
 [Unit]
 Description=Jupyterhub
