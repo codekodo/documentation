@@ -1,4 +1,4 @@
-Executer les commande suivantes dans une console avec les droits administrateur afin d'installer JupoyterHub avec une interface JupyterLab sur un serveur Debian.
+Executer les commande suivantes dans une console avec les droits administrateur afin d'installer, sur un serveur Debian, JupyterHub avec une interface JupyterLab.
 
 ## Curl
 
