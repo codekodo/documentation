@@ -6,6 +6,7 @@
 
 * [Comment exécuter un programme Python pas à pas](/documentation/guides/Comment_ex%C3%A9cuter_un_programme_Python_pas_%C3%A0_pas.ipynb)
 
+* [Installer JupyterHub sur un serveur Debian](/documentation/guides/Installer_JupyterHub_sur_un_serveur_Debian.md)
 
 * [Calepins et LaTeX](/documentation/guides/Calepins%20et%20LaTeX.ipynb)
 
