@@ -1,5 +1,4 @@
-Documentation officielle : https://jupyterhub.readthedocs.io/en/latest/quickstart.html
-Toutes les commandes suivantes sont à executer dans un console.
+Executer les commande suivantes dans une console avec les droits administrateur afin d'installer JupoyterHub avec une interface JupyterLab sur un serveur Debian.
 
 ## Curl
 
@@ -35,18 +34,24 @@ Toutes les commandes suivantes sont à executer dans un console.
 
 <kbd>jupyter labextension install @jupyterlab/hub-extension</kbd>
 
+Dans `jupyterhub_config.py`, ajouter :
+```
+c.Spawner.cmd = ['jupyter-labhub']
+c.Spawner.default_url = '/lab'
+```
+
 ## Service JupyterHub
 
-A jouter dans `/lib/systemd/system/jupyterhub.service`
-
-> [Unit]
-> Description=Jupyterhub
-> [Service]
-> User=root
-> ExecStart=/usr/local/bin/jupyterhub -f /etc/jupyterhub/jupyterhub_config.py
-> [Install]
-> WantedBy=multi-user.target
-
+A jouter dans `/lib/systemd/system/jupyterhub.service` :
+```
+[Unit]
+Description=Jupyterhub
+[Service]
+User=root
+ExecStart=/usr/local/bin/jupyterhub -f /etc/jupyterhub/jupyterhub_config.py
+[Install]
+WantedBy=multi-user.target
+```
 
 **Démarrer le service**
 
@@ -55,3 +60,5 @@ A jouter dans `/lib/systemd/system/jupyterhub.service`
 **Redémarrer le service**
 
 <kbd>systemctl daemon-reload</kbd>
+
+*Documentation officielle* : https://jupyterhub.readthedocs.io/en/latest/quickstart.html
