@@ -12,10 +12,11 @@ Le seul systeme d'explaoitation installé sur la machine est Linux. La machine d
 C'est une solution simple mais chere en materiel et en espace si l'on souhaite aussi avoir des machines Windows.
 
 ## 1.2. Double boot Windows / Linux
-Dans cette configuration windows et Linux sont installe sur la machine. Au demarrage de la machine, un message demande si l'on souhaite demarrer Wndows ou Linux.
-C'est un bon compromis mais cela necessaite nue installation lourde : creation de partitions, installation des deux systemes d'explaoitation, mise en place du double boot...
+Dans cette configuration Windows et Linux sont installe sur la machine. Au demarrage de la machine, un message demande si l'on souhaite demarrer Wndows ou Linux.
+Cette solution permet d'utiliser les deux systemes d'exploitation mais sa mise ne place est lourde : creation de partitions, installation des deux systemes d'explaoitation, mise en place du double boot...
 
-## 1.2.3. Machine virutele Linux
+## 1.2.3. Machine virutelle Linux
+Sur une machine Windows il est possible d'installer une machine virtuelle XXXXXXXXXX
 
 # 2. Utiliser une carte Raspberry
 Une carte RaspberryPi (https://www.raspberrypi.org) est un mini ordianteur (pour faire simple). Le systeme d'exploitation 
