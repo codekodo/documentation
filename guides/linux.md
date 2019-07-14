@@ -30,3 +30,6 @@ inconveneints
 # 3. Linux sur un serveur
 
 # 4. Linux dans le Cloud
+
+Cinclusion
+La slution raspberry est la plus simple a mette en oeuvre et repond a tous les besoin. Mais la soltion avec sreveur est la plus seduisante car elle offre la possibilite de XXX
