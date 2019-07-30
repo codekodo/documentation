@@ -1,7 +1,14 @@
-Deux points du BO font référence à un systeme d'exploitation libre:
+Le 'utilisation de Linux au secondaire (pour les eleves comme pour les enseignants) devrait faire partie de l'offre des outils numerique
+
+Linux 
+
+Deux points du BO sur le programme de NSI font référence à un systeme d'exploitation libre:
 * Les différences entre systèmes d’exploitation libres et propriétaires sont évoquées.
 * Les élèves utilisent un système d’exploitation libre.
+
 Il existe de nombreux systèmes d'exploitation libres mais le plus simple à mettre en place est Linux. L'utilsation d'une distribution Linux permet aussi d'élargir la notion de système libre en faisant découvrir aux élèves les logiciels libres qui composent l'écosystème Unix / Linux (et qui peuvent être aussi utilisés sur Windows ou MacOS).
+
+XXX presentation de la suite.
 
 # 1. Installer Linux sur des postes
 
