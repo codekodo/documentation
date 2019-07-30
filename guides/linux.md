@@ -1,6 +1,10 @@
-Le 'utilisation de Linux au secondaire (pour les eleves comme pour les enseignants) devrait faire partie de l'offre des outils numerique
+Quand il s'agit de systeme d'exploitqaition usitlise dans les etablissement scolaires, Windows est la solution la plus courament recontree. Parfaois MacOS. Mais tres rarement Linux. Pourtant, Linux possede tous les avantages pour s'imposer dans une ecole : richesse de l'environnement, facilite d'utilisation, deploient rapide, securite, moindre vulnarabilite face aux virus, faible cout... De plus, contrairement a Windows et MacOs, Linux est un systeme d'exploitation libre (https://fr.wikipedia.org/wiki/Logiciel_libre). 
 
-Linux 
+
+
+Linux au secondaire (pour les eleves comme pour les enseignants) devrait faire partie de l'offre des outils numerique
+
+Linux devrait avo9ir toute sa place dans les l'offre d'outils umerique mis a disposition des eleves et des enseignants. 
 
 Deux points du BO sur le programme de NSI font référence à un systeme d'exploitation libre:
 * Les différences entre systèmes d’exploitation libres et propriétaires sont évoquées.
@@ -24,10 +28,12 @@ Cette solution permet d'utiliser les deux systemes d'exploitation mais sa mise n
 
 ## 1.2.3. Machine virutelle Linux
 Sur une machine Windows il est possible d'installer une machine virtuelle XXXXXXXXXX
+Mais la aussi l'installation est lourde...
 
 # 2. Utiliser une carte Raspberry
 Une carte RaspberryPi (https://www.raspberrypi.org) est un mini ordianteur (pour faire simple). Le systeme d'exploitation 
 Distribution : Raspbian basee sur Debian
+Installation qui peut etre faite par l'enseignant. Pas besoin du service info
 ## 2.1. Carte avec ecran et clavier
 inconveniant
 ## 2.2. Carte avec bureau virtual
