@@ -11,7 +11,7 @@ Cependant, une solution existe : **[Jupyter](https://jupyter.org/)**. Non seulem
 Jupyter et les calepins numériques sont les outils parfaits pour les enseignements qui nécessitent l’utilisation de Python.
 Jupyter est, de plus, un **logiciel libre**.
 
-## 1. Jupyter et ses diffentes interfaces
+## 1. Jupyter et ses différentes interfaces
 
 Jupyter est un logiciel libre qui existe sous plusieurs formes et dont le nom varie selon qu’il est proposé par exemple par Google, Microsoft ou autres. Le cœur est toujours le même (les fonctionnalités sont identiques) mais sa présentation (interface utilisateur) peut varier légèrement :
 * le Jupyter classique, appelé Jupyter Lab, tel qu’on le retrouve sur une installation classique de Jupyter
