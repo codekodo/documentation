@@ -1,6 +1,24 @@
 ♻️ _Attention, ce document est mis à jour régulièrement en fonction des remarques, des questions et de l'évolution des environnements._
 
-## 1. Pourquoi Colaboratory ou Azure Notebooks?
+Ces dernières années, **Python** a fait son apparition dans les programmes de **Mathématiques** et **Physique-Chimie** et, avec la réforme du Lycée, il a une place de choix dans le programme de la spécialité “**Numérique et Science de l’Informatique - NSI**”. Mettre à disposition des élèves et des enseignants un environnement de développement Python dans un établissement scolaire est généralement une tâche compliquée et gourmande en ressources. Par exemple, l’installation de la distribution Anaconda nécessite une installation poste par poste, des machines robustes, un suivi des mises à jour et une maintenance régulière. Et les élèves qui souhaitent développer sur leur ordinateur personnel vont rencontrer les mêmes contraintes sans avoir généralement l’expertise nécessaire pour les surmonter. De plus, les établissement qui ont fait le choix de s’équiper en Chromebook se retrouvent dans une impasse.
+
+La façon la plus simple de contourner toutes ces contraintes est donc d’utiliser un environnement de développement en ligne.
+
+Il existe des services comme [Repl.it](https://repl.it/) ou [Trinket.io](https://trinket.io/) mais ils ont tendance a devenir payants et ils ne répondent pas toujours aux exigences des programmes.
+
+Cependant, une solution existe : **[Jupyter](https://jupyter.org/)**. Non seulement Jupyter répond à toutes les demandes mais cet environnement offre en plus un type de format de fichier qui permet de créer des supports de cours riches et interactifs : le format “**calepin numérique**” (“notebook” en anglais).
+
+Jupyter et les calepins numériques sont les outils parfaits pour les enseignements qui nécessitent l’utilisation de Python.
+Jupyter est, de plus, un **logiciel libre**.
+
+## 1. Jupyter et ses diffentes interfaces
+
+Jupyter est un logiciel libre qui existe sous plusieurs formes et dont le nom varie selon qu’il est proposé par exemple par Google, Microsoft ou autres. Le cœur est toujours le même (les fonctionnalités sont identiques) mais sa présentation (interface utilisateur) peut varier légèrement :
+* le Jupyter classique, appelé Jupyter Lab, tel qu’on le retrouve sur une installation classique de Jupyter
+* le Jupyter de Google : Colaboratory. Le cœur et les fonctionnalités sont les mêmes que pour un Jupyter classique. Mais l’interface graphique est différente.
+* le Jupyter de Microsoft : Azure Notebook. Le cœur et les fonctionnalités sont les mêmes que pour un Jupyter classique. L’interface reste très proche de la version classique. Seule la gestion générale des fichiers et des projets diffère.
+
+## 2. Pourquoi Colaboratory ou Azure Notebooks?
 
 **Avantages :**
 * services en ligne donc pas d'installation (inutile de solliciter le service IT de l'établissement pour mettre en place l'environnement de travail)
@@ -15,7 +33,7 @@
 * connexion internet nécessaire
 
 
-## 2. Premiers pas avec Colaboratory
+## 3. Premiers pas avec Colaboratory
 1. Ouvrir un navigateur et saisir l'adresse [https://colab.research.google.com](https://colab.research.google.com)
 2. Se connecter au service avec une adresse Gmail (`Sign in` au haut à droite de la page d'accueil)
 
@@ -48,7 +66,7 @@ Pour compléter le calepin, il suffit d'ajouter des cellules "code" et des cellu
 
 Les calepins s'enregistrent automatiquement sur votre `Google Drive` dans le dossier `Colab Notebooks`.
 
-## 3. Premiers pas avec Azure Notebooks
+## 4. Premiers pas avec Azure Notebooks
 1. Ouvrir un navigateur et saisir l'adresse [https://notebooks.azure.com](https://notebooks.azure.com)
 2. Se connecter au service avec l'adresse courriel de votre choix (`Sign In` au haut à droite de la page d'accueil).
 
