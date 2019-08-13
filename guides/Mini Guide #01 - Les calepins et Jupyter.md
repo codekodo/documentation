@@ -1,5 +1,16 @@
 ♻️ _Attention, ce document est mis à jour régulièrement en fonction des remarques, des questions et de l'évolution des environnements._
 
+Ces dernières années, **Python** a fait son apparition dans les programmes de **Mathématiques** et **Physique-Chimie** et, avec la réforme du Lycée, il a une place de choix dans le programme de la spécialité “**Numérique et Science de l’Informatique - NSI**”. Mettre à disposition des élèves et des enseignants un environnement de développement Python dans un établissement scolaire est généralement une tâche compliquée et gourmande en ressources. Par exemple, l’installation de la distribution Anaconda nécessite une installation poste par poste, des machines robustes, un suivi des mises à jour et une maintenance régulière. Et les élèves qui souhaitent développer sur leur ordinateur personnel vont rencontrer les mêmes contraintes sans avoir généralement l’expertise nécessaire pour les surmonter. De plus, les établissement qui ont fait le choix de s’équiper en Chromebook se retrouvent dans une impasse.
+
+La façon la plus simple de contourner toutes ces contraintes est donc d’utiliser un environnement de développement en ligne.
+
+Il existe des services comme [Repl.it](https://repl.it/) ou [Trinket.io](https://trinket.io/) mais ils ont tendance a devenir payants et ils ne répondent pas toujours aux exigences des programmes.
+
+Cependant, une solution existe : **[Jupyter](https://jupyter.org/)**. Non seulement Jupyter répond à toutes les demandes mais cet environnement offre en plus un type de format de fichier qui permet de créer des supports de cours riches et interactifs : le format “**calepin numérique**” (“notebook” en anglais).
+
+Jupyter et les calepins numériques sont les outils parfaits pour les enseignements qui nécessitent l’inutilisation de Python.
+Jupyter est, de plus, un **logiciel libre**.
+
 ## 1. Qu'est-ce qu'un calepin
 En informatique, tout fichier est lié à un ou plusieurs logiciels. Par exemple, un fichier Word (en .docx) a besoin du logiciel Word pour pouvoir être modifié. Un fichier PDF (en .pdf) a besoin de PDF Reader (ou d'un logiciel équivalent) pour pouvoir être lu. Un fichier texte (en .txt) a besoin de Notepad, ou de WordPad ou de tout autre logiciel qui est capable de lire et modifier un fichier texte.
 
