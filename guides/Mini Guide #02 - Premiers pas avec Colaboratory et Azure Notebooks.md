@@ -20,7 +20,7 @@ Jupyter est un logiciel libre qui existe sous plusieurs formes et dont le nom va
 
 Quelle que soit la version de Jupyter utilisée, les calepins créés, eux, sont tous identiques et fonctionneront de la même manière sur n’importe quelle version de Jupyter.
 
-Dans un établissement scolaire, l'idéal serait de pouvoir installer Jupyter sur un serveur afin de conserver un controle total sur la plateforme (controle des services mais aussi controle des utilisateurs). Cependant, l'installation et la maintenance d'un tel environnement demandent une bonne expertise et des ressources humaines. Si les conditions ne sont pas reunies, il est néanmoins possible de se tourner vers les services en ligne de Google et Microsoft : Colaboratory ou Azure Notebooks.
+Dans un établissement scolaire, l'idéal serait de pouvoir installer Jupyter sur un serveur afin de conserver un contrôle total sur la plateforme (contrôle des services mais aussi contrôle des utilisateurs). Cependant, l'installation et la maintenance d'un tel environnement demandent une bonne expertise et des ressources humaines. Si les conditions ne sont pas réunies, il est néanmoins possible de se tourner vers les services en ligne de Google et Microsoft : Colaboratory ou Azure Notebooks.
 
 ## 2. Pourquoi Colaboratory ou Azure Notebooks?
 
