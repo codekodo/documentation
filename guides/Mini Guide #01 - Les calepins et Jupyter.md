@@ -12,6 +12,7 @@ Jupyter et les calepins numériques sont les outils parfaits pour les enseigneme
 Jupyter est, de plus, un **logiciel libre**.
 
 ## 1. Qu'est-ce qu'un calepin
+### 1.1. Le format calepin
 En informatique, tout fichier est lié à un ou plusieurs logiciels. Par exemple, un fichier Word (en .docx) a besoin du logiciel Word pour pouvoir être modifié. Un fichier PDF (en .pdf) a besoin de PDF Reader (ou d'un logiciel équivalent) pour pouvoir être lu. Un fichier texte (en .txt) a besoin de Notepad, ou de WordPad ou de tout autre logiciel qui est capable de lire et modifier un fichier texte.
 
 Ces logiciels qui permettent de manipuler certains types de fichiers peuvent être des logiciels installés sur un ordinateur et / ou des services en ligne que l'on utilise avec un navigateur web (Chrome, Firefox, Internet Explorer...). Par exemple, les fichiers Word peuvent être utilisés avec l'application Word installée sur l’ordinateur, mais aussi avec sa version en ligne (présente sur un serveur) Word Online que l’on utilise via un navigateur. Certains fichiers ne peuvent être manipulés que via un navigateur. C'est le cas des Google Docs.
@@ -23,6 +24,17 @@ Pour les calepins, la logique est la même. Un calepin est un autre type de fich
 Pour résumer : un calepin se crée, se modifie et s’enregistre à l'aide de l’application Jupyter que l'on utilise via un navigateur.
 
 Remarque : les termes « application » et « logiciel » peuvent être considérés ici comme équivalents.
+
+### 2.1. Particularités du format calepin
+Le format calepin est un format particulier. Ce n'est pas un simple format texte, ce n'est pas un simple format code, c'est les deux à la fois.
+
+Un calepin se décompose en cellules et il existe deux types de cellules : les cellules "texte" et les cellules "code". Ces cellules se placent les unes en dessous des autres et elles peuvent être réarrangées à volonté.
+
+Dans une cellule "texte", on place du texte. Ce texte peut être mis en page (titres, différents niveaux de sous-titres, paragraphes, gras, italique, liens hypertextes, images, tableaux…) grâce au format "Markdown". Et, point important pour les scientifiques, il est aussi possible d'intégrer du code Latex dans ces cellules.
+
+La combinaison des cellules "texte" et "code" permet donc créer des documents riches, faciles à structurer et interactifs.
+
+Ce format calepin est donc un **format idéal pour la création de supports** de cours, d'exercices, de devoirs… Ces calepins peuvent être aussi facilement partagés.
 
 ## 2. Qu'est-ce que Jupyter
 
