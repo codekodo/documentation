@@ -20,5 +20,5 @@
 <br />
 <span style="color:gray;font-size:11px">Auteur(s) : Laurent Abbal</span>
 <br />
-<span style="color:gray;font-size:11px">Licence : <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a></span>.
+<span style="color:gray;font-size:11px">Licence : <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a></span>.
 
