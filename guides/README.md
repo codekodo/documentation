@@ -17,4 +17,7 @@
 * [Trucs & Astuces](/documentation/guides/Trucs%20%26%20Astuces.md)
 
 
-<span style="color:silver">Auteur(s) : </span>
+<br />
+<span style="color:silver;font-size:10px;">Auteur(s) : Laurent Abbal</span>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />Ce site et son contenu sont mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International</a>.
+
