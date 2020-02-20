@@ -16,7 +16,7 @@
 
 * [Trucs & Astuces](/documentation/guides/Trucs%20%26%20Astuces.md)
 
-
+<br />
 <br />
 <span style="color:silver;font-size:11px">Auteur(s) : Laurent Abbal</span>
 <br />
